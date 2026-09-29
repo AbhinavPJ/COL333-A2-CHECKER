@@ -14,7 +14,12 @@ import numpy as np
 
 
 CHECKER_ROOT = Path(__file__).resolve().parent
-SUITES = ("micro", "maze", "stress")
+SUITES = ("suite_001", "suite_002", "suite_003")
+SUITE_PROFILES = {
+    "suite_001": "small",
+    "suite_002": "structured",
+    "suite_003": "large",
+}
 DEFAULT_COUNT = 500
 DEFAULT_SEED = 20260929
 DEFAULT_TRAIN_SECONDS = {"a": 0.2, "b": 0.2}
@@ -191,11 +196,12 @@ def _connected_region(size, root, row_range, col_range, target_size, rng):
 
 def _part_a_case(suite, index, seed):
     rng = random.Random(seed)
-    if suite == "micro":
+    profile = SUITE_PROFILES[suite]
+    if profile == "small":
         size = rng.randint(5, 9)
         region_limit = 5
         density = rng.uniform(0.02, 0.18)
-    elif suite == "maze":
+    elif profile == "structured":
         size = rng.randint(10, 18)
         region_limit = 14
         density = rng.uniform(0.12, 0.38)

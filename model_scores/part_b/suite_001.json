@@ -1,7 +1,7 @@
 {
   "version": 1,
   "part": "b",
-  "suite": "micro",
+  "suite": "suite_001",
   "seed": 20260929,
   "count": 500,
   "settings": {
@@ -11,3501 +11,3501 @@
   },
   "cases": [
     {
-      "id": "micro-0000",
-      "suite": "micro",
+      "id": "suite_001-0000",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20260929,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0001",
-      "suite": "micro",
+      "id": "suite_001-0001",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20261938,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0002",
-      "suite": "micro",
+      "id": "suite_001-0002",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20262947,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0003",
-      "suite": "micro",
+      "id": "suite_001-0003",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20263956,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0004",
-      "suite": "micro",
+      "id": "suite_001-0004",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20264965,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0005",
-      "suite": "micro",
+      "id": "suite_001-0005",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20265974,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0006",
-      "suite": "micro",
+      "id": "suite_001-0006",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20266983,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0007",
-      "suite": "micro",
+      "id": "suite_001-0007",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20267992,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0008",
-      "suite": "micro",
+      "id": "suite_001-0008",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20269001,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0009",
-      "suite": "micro",
+      "id": "suite_001-0009",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20270010,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0010",
-      "suite": "micro",
+      "id": "suite_001-0010",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20271019,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0011",
-      "suite": "micro",
+      "id": "suite_001-0011",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20272028,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0012",
-      "suite": "micro",
+      "id": "suite_001-0012",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20273037,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0013",
-      "suite": "micro",
+      "id": "suite_001-0013",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20274046,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0014",
-      "suite": "micro",
+      "id": "suite_001-0014",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20275055,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0015",
-      "suite": "micro",
+      "id": "suite_001-0015",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20276064,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0016",
-      "suite": "micro",
+      "id": "suite_001-0016",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20277073,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0017",
-      "suite": "micro",
+      "id": "suite_001-0017",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20278082,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0018",
-      "suite": "micro",
+      "id": "suite_001-0018",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20279091,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0019",
-      "suite": "micro",
+      "id": "suite_001-0019",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20280100,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0020",
-      "suite": "micro",
+      "id": "suite_001-0020",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20281109,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0021",
-      "suite": "micro",
+      "id": "suite_001-0021",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20282118,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0022",
-      "suite": "micro",
+      "id": "suite_001-0022",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20283127,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0023",
-      "suite": "micro",
+      "id": "suite_001-0023",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20284136,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0024",
-      "suite": "micro",
+      "id": "suite_001-0024",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20285145,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0025",
-      "suite": "micro",
+      "id": "suite_001-0025",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20286154,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0026",
-      "suite": "micro",
+      "id": "suite_001-0026",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20287163,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0027",
-      "suite": "micro",
+      "id": "suite_001-0027",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20288172,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0028",
-      "suite": "micro",
+      "id": "suite_001-0028",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20289181,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0029",
-      "suite": "micro",
+      "id": "suite_001-0029",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20290190,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0030",
-      "suite": "micro",
+      "id": "suite_001-0030",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20291199,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0031",
-      "suite": "micro",
+      "id": "suite_001-0031",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20292208,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0032",
-      "suite": "micro",
+      "id": "suite_001-0032",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20293217,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0033",
-      "suite": "micro",
+      "id": "suite_001-0033",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20294226,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0034",
-      "suite": "micro",
+      "id": "suite_001-0034",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20295235,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0035",
-      "suite": "micro",
+      "id": "suite_001-0035",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20296244,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0036",
-      "suite": "micro",
+      "id": "suite_001-0036",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20297253,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0037",
-      "suite": "micro",
+      "id": "suite_001-0037",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20298262,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0038",
-      "suite": "micro",
+      "id": "suite_001-0038",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20299271,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0039",
-      "suite": "micro",
+      "id": "suite_001-0039",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20300280,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0040",
-      "suite": "micro",
+      "id": "suite_001-0040",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20301289,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0041",
-      "suite": "micro",
+      "id": "suite_001-0041",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20302298,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0042",
-      "suite": "micro",
+      "id": "suite_001-0042",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20303307,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0043",
-      "suite": "micro",
+      "id": "suite_001-0043",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20304316,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0044",
-      "suite": "micro",
+      "id": "suite_001-0044",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20305325,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0045",
-      "suite": "micro",
+      "id": "suite_001-0045",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20306334,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0046",
-      "suite": "micro",
+      "id": "suite_001-0046",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20307343,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0047",
-      "suite": "micro",
+      "id": "suite_001-0047",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20308352,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0048",
-      "suite": "micro",
+      "id": "suite_001-0048",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20309361,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0049",
-      "suite": "micro",
+      "id": "suite_001-0049",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20310370,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0050",
-      "suite": "micro",
+      "id": "suite_001-0050",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20311379,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0051",
-      "suite": "micro",
+      "id": "suite_001-0051",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20312388,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0052",
-      "suite": "micro",
+      "id": "suite_001-0052",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20313397,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0053",
-      "suite": "micro",
+      "id": "suite_001-0053",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20314406,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0054",
-      "suite": "micro",
+      "id": "suite_001-0054",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20315415,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0055",
-      "suite": "micro",
+      "id": "suite_001-0055",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20316424,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0056",
-      "suite": "micro",
+      "id": "suite_001-0056",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20317433,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0057",
-      "suite": "micro",
+      "id": "suite_001-0057",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20318442,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0058",
-      "suite": "micro",
+      "id": "suite_001-0058",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20319451,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0059",
-      "suite": "micro",
+      "id": "suite_001-0059",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20320460,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0060",
-      "suite": "micro",
+      "id": "suite_001-0060",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20321469,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0061",
-      "suite": "micro",
+      "id": "suite_001-0061",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20322478,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0062",
-      "suite": "micro",
+      "id": "suite_001-0062",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20323487,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0063",
-      "suite": "micro",
+      "id": "suite_001-0063",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20324496,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0064",
-      "suite": "micro",
+      "id": "suite_001-0064",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20325505,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0065",
-      "suite": "micro",
+      "id": "suite_001-0065",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20326514,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0066",
-      "suite": "micro",
+      "id": "suite_001-0066",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20327523,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0067",
-      "suite": "micro",
+      "id": "suite_001-0067",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20328532,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0068",
-      "suite": "micro",
+      "id": "suite_001-0068",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20329541,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0069",
-      "suite": "micro",
+      "id": "suite_001-0069",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20330550,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0070",
-      "suite": "micro",
+      "id": "suite_001-0070",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20331559,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0071",
-      "suite": "micro",
+      "id": "suite_001-0071",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20332568,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0072",
-      "suite": "micro",
+      "id": "suite_001-0072",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20333577,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0073",
-      "suite": "micro",
+      "id": "suite_001-0073",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20334586,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0074",
-      "suite": "micro",
+      "id": "suite_001-0074",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20335595,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0075",
-      "suite": "micro",
+      "id": "suite_001-0075",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20336604,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0076",
-      "suite": "micro",
+      "id": "suite_001-0076",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20337613,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0077",
-      "suite": "micro",
+      "id": "suite_001-0077",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20338622,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0078",
-      "suite": "micro",
+      "id": "suite_001-0078",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20339631,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0079",
-      "suite": "micro",
+      "id": "suite_001-0079",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20340640,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0080",
-      "suite": "micro",
+      "id": "suite_001-0080",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20341649,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0081",
-      "suite": "micro",
+      "id": "suite_001-0081",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20342658,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0082",
-      "suite": "micro",
+      "id": "suite_001-0082",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20343667,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0083",
-      "suite": "micro",
+      "id": "suite_001-0083",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20344676,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0084",
-      "suite": "micro",
+      "id": "suite_001-0084",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20345685,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0085",
-      "suite": "micro",
+      "id": "suite_001-0085",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20346694,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0086",
-      "suite": "micro",
+      "id": "suite_001-0086",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20347703,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0087",
-      "suite": "micro",
+      "id": "suite_001-0087",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20348712,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0088",
-      "suite": "micro",
+      "id": "suite_001-0088",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20349721,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0089",
-      "suite": "micro",
+      "id": "suite_001-0089",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20350730,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0090",
-      "suite": "micro",
+      "id": "suite_001-0090",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20351739,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0091",
-      "suite": "micro",
+      "id": "suite_001-0091",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20352748,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0092",
-      "suite": "micro",
+      "id": "suite_001-0092",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20353757,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0093",
-      "suite": "micro",
+      "id": "suite_001-0093",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20354766,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0094",
-      "suite": "micro",
+      "id": "suite_001-0094",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20355775,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0095",
-      "suite": "micro",
+      "id": "suite_001-0095",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20356784,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0096",
-      "suite": "micro",
+      "id": "suite_001-0096",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20357793,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0097",
-      "suite": "micro",
+      "id": "suite_001-0097",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20358802,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0098",
-      "suite": "micro",
+      "id": "suite_001-0098",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20359811,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0099",
-      "suite": "micro",
+      "id": "suite_001-0099",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20360820,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0100",
-      "suite": "micro",
+      "id": "suite_001-0100",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20361829,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0101",
-      "suite": "micro",
+      "id": "suite_001-0101",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20362838,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0102",
-      "suite": "micro",
+      "id": "suite_001-0102",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20363847,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0103",
-      "suite": "micro",
+      "id": "suite_001-0103",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20364856,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0104",
-      "suite": "micro",
+      "id": "suite_001-0104",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20365865,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0105",
-      "suite": "micro",
+      "id": "suite_001-0105",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20366874,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0106",
-      "suite": "micro",
+      "id": "suite_001-0106",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20367883,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0107",
-      "suite": "micro",
+      "id": "suite_001-0107",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20368892,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0108",
-      "suite": "micro",
+      "id": "suite_001-0108",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20369901,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0109",
-      "suite": "micro",
+      "id": "suite_001-0109",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20370910,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0110",
-      "suite": "micro",
+      "id": "suite_001-0110",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20371919,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0111",
-      "suite": "micro",
+      "id": "suite_001-0111",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20372928,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0112",
-      "suite": "micro",
+      "id": "suite_001-0112",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20373937,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0113",
-      "suite": "micro",
+      "id": "suite_001-0113",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20374946,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0114",
-      "suite": "micro",
+      "id": "suite_001-0114",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20375955,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0115",
-      "suite": "micro",
+      "id": "suite_001-0115",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20376964,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0116",
-      "suite": "micro",
+      "id": "suite_001-0116",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20377973,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0117",
-      "suite": "micro",
+      "id": "suite_001-0117",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20378982,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0118",
-      "suite": "micro",
+      "id": "suite_001-0118",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20379991,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0119",
-      "suite": "micro",
+      "id": "suite_001-0119",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20381000,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0120",
-      "suite": "micro",
+      "id": "suite_001-0120",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20382009,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0121",
-      "suite": "micro",
+      "id": "suite_001-0121",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20383018,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0122",
-      "suite": "micro",
+      "id": "suite_001-0122",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20384027,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0123",
-      "suite": "micro",
+      "id": "suite_001-0123",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20385036,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0124",
-      "suite": "micro",
+      "id": "suite_001-0124",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20386045,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0125",
-      "suite": "micro",
+      "id": "suite_001-0125",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20387054,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0126",
-      "suite": "micro",
+      "id": "suite_001-0126",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20388063,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0127",
-      "suite": "micro",
+      "id": "suite_001-0127",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20389072,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0128",
-      "suite": "micro",
+      "id": "suite_001-0128",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20390081,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0129",
-      "suite": "micro",
+      "id": "suite_001-0129",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20391090,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0130",
-      "suite": "micro",
+      "id": "suite_001-0130",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20392099,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0131",
-      "suite": "micro",
+      "id": "suite_001-0131",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20393108,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0132",
-      "suite": "micro",
+      "id": "suite_001-0132",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20394117,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0133",
-      "suite": "micro",
+      "id": "suite_001-0133",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20395126,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0134",
-      "suite": "micro",
+      "id": "suite_001-0134",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20396135,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0135",
-      "suite": "micro",
+      "id": "suite_001-0135",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20397144,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0136",
-      "suite": "micro",
+      "id": "suite_001-0136",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20398153,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0137",
-      "suite": "micro",
+      "id": "suite_001-0137",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20399162,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0138",
-      "suite": "micro",
+      "id": "suite_001-0138",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20400171,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0139",
-      "suite": "micro",
+      "id": "suite_001-0139",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20401180,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0140",
-      "suite": "micro",
+      "id": "suite_001-0140",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20402189,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0141",
-      "suite": "micro",
+      "id": "suite_001-0141",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20403198,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0142",
-      "suite": "micro",
+      "id": "suite_001-0142",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20404207,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0143",
-      "suite": "micro",
+      "id": "suite_001-0143",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20405216,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0144",
-      "suite": "micro",
+      "id": "suite_001-0144",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20406225,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0145",
-      "suite": "micro",
+      "id": "suite_001-0145",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20407234,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0146",
-      "suite": "micro",
+      "id": "suite_001-0146",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20408243,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0147",
-      "suite": "micro",
+      "id": "suite_001-0147",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20409252,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0148",
-      "suite": "micro",
+      "id": "suite_001-0148",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20410261,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0149",
-      "suite": "micro",
+      "id": "suite_001-0149",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20411270,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0150",
-      "suite": "micro",
+      "id": "suite_001-0150",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20412279,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0151",
-      "suite": "micro",
+      "id": "suite_001-0151",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20413288,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0152",
-      "suite": "micro",
+      "id": "suite_001-0152",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20414297,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0153",
-      "suite": "micro",
+      "id": "suite_001-0153",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20415306,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0154",
-      "suite": "micro",
+      "id": "suite_001-0154",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20416315,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0155",
-      "suite": "micro",
+      "id": "suite_001-0155",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20417324,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0156",
-      "suite": "micro",
+      "id": "suite_001-0156",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20418333,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0157",
-      "suite": "micro",
+      "id": "suite_001-0157",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20419342,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0158",
-      "suite": "micro",
+      "id": "suite_001-0158",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20420351,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0159",
-      "suite": "micro",
+      "id": "suite_001-0159",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20421360,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0160",
-      "suite": "micro",
+      "id": "suite_001-0160",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20422369,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0161",
-      "suite": "micro",
+      "id": "suite_001-0161",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20423378,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0162",
-      "suite": "micro",
+      "id": "suite_001-0162",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20424387,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0163",
-      "suite": "micro",
+      "id": "suite_001-0163",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20425396,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0164",
-      "suite": "micro",
+      "id": "suite_001-0164",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20426405,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0165",
-      "suite": "micro",
+      "id": "suite_001-0165",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20427414,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0166",
-      "suite": "micro",
+      "id": "suite_001-0166",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20428423,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0167",
-      "suite": "micro",
+      "id": "suite_001-0167",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20429432,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0168",
-      "suite": "micro",
+      "id": "suite_001-0168",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20430441,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0169",
-      "suite": "micro",
+      "id": "suite_001-0169",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20431450,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0170",
-      "suite": "micro",
+      "id": "suite_001-0170",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20432459,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0171",
-      "suite": "micro",
+      "id": "suite_001-0171",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20433468,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0172",
-      "suite": "micro",
+      "id": "suite_001-0172",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20434477,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0173",
-      "suite": "micro",
+      "id": "suite_001-0173",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20435486,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0174",
-      "suite": "micro",
+      "id": "suite_001-0174",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20436495,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0175",
-      "suite": "micro",
+      "id": "suite_001-0175",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20437504,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0176",
-      "suite": "micro",
+      "id": "suite_001-0176",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20438513,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0177",
-      "suite": "micro",
+      "id": "suite_001-0177",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20439522,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0178",
-      "suite": "micro",
+      "id": "suite_001-0178",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20440531,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0179",
-      "suite": "micro",
+      "id": "suite_001-0179",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20441540,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0180",
-      "suite": "micro",
+      "id": "suite_001-0180",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20442549,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0181",
-      "suite": "micro",
+      "id": "suite_001-0181",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20443558,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0182",
-      "suite": "micro",
+      "id": "suite_001-0182",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20444567,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0183",
-      "suite": "micro",
+      "id": "suite_001-0183",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20445576,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0184",
-      "suite": "micro",
+      "id": "suite_001-0184",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20446585,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0185",
-      "suite": "micro",
+      "id": "suite_001-0185",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20447594,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0186",
-      "suite": "micro",
+      "id": "suite_001-0186",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20448603,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0187",
-      "suite": "micro",
+      "id": "suite_001-0187",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20449612,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0188",
-      "suite": "micro",
+      "id": "suite_001-0188",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20450621,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0189",
-      "suite": "micro",
+      "id": "suite_001-0189",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20451630,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0190",
-      "suite": "micro",
+      "id": "suite_001-0190",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20452639,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0191",
-      "suite": "micro",
+      "id": "suite_001-0191",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20453648,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0192",
-      "suite": "micro",
+      "id": "suite_001-0192",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20454657,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0193",
-      "suite": "micro",
+      "id": "suite_001-0193",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20455666,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0194",
-      "suite": "micro",
+      "id": "suite_001-0194",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20456675,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0195",
-      "suite": "micro",
+      "id": "suite_001-0195",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20457684,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0196",
-      "suite": "micro",
+      "id": "suite_001-0196",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20458693,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0197",
-      "suite": "micro",
+      "id": "suite_001-0197",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20459702,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0198",
-      "suite": "micro",
+      "id": "suite_001-0198",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20460711,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0199",
-      "suite": "micro",
+      "id": "suite_001-0199",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20461720,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0200",
-      "suite": "micro",
+      "id": "suite_001-0200",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20462729,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0201",
-      "suite": "micro",
+      "id": "suite_001-0201",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20463738,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0202",
-      "suite": "micro",
+      "id": "suite_001-0202",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20464747,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0203",
-      "suite": "micro",
+      "id": "suite_001-0203",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20465756,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0204",
-      "suite": "micro",
+      "id": "suite_001-0204",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20466765,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0205",
-      "suite": "micro",
+      "id": "suite_001-0205",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20467774,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0206",
-      "suite": "micro",
+      "id": "suite_001-0206",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20468783,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0207",
-      "suite": "micro",
+      "id": "suite_001-0207",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20469792,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0208",
-      "suite": "micro",
+      "id": "suite_001-0208",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20470801,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0209",
-      "suite": "micro",
+      "id": "suite_001-0209",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20471810,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0210",
-      "suite": "micro",
+      "id": "suite_001-0210",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20472819,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0211",
-      "suite": "micro",
+      "id": "suite_001-0211",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20473828,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0212",
-      "suite": "micro",
+      "id": "suite_001-0212",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20474837,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0213",
-      "suite": "micro",
+      "id": "suite_001-0213",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20475846,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0214",
-      "suite": "micro",
+      "id": "suite_001-0214",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20476855,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0215",
-      "suite": "micro",
+      "id": "suite_001-0215",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20477864,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0216",
-      "suite": "micro",
+      "id": "suite_001-0216",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20478873,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0217",
-      "suite": "micro",
+      "id": "suite_001-0217",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20479882,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0218",
-      "suite": "micro",
+      "id": "suite_001-0218",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20480891,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0219",
-      "suite": "micro",
+      "id": "suite_001-0219",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20481900,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0220",
-      "suite": "micro",
+      "id": "suite_001-0220",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20482909,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0221",
-      "suite": "micro",
+      "id": "suite_001-0221",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20483918,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0222",
-      "suite": "micro",
+      "id": "suite_001-0222",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20484927,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0223",
-      "suite": "micro",
+      "id": "suite_001-0223",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20485936,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0224",
-      "suite": "micro",
+      "id": "suite_001-0224",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20486945,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0225",
-      "suite": "micro",
+      "id": "suite_001-0225",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20487954,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0226",
-      "suite": "micro",
+      "id": "suite_001-0226",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20488963,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0227",
-      "suite": "micro",
+      "id": "suite_001-0227",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20489972,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0228",
-      "suite": "micro",
+      "id": "suite_001-0228",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20490981,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0229",
-      "suite": "micro",
+      "id": "suite_001-0229",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20491990,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0230",
-      "suite": "micro",
+      "id": "suite_001-0230",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20492999,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0231",
-      "suite": "micro",
+      "id": "suite_001-0231",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20494008,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0232",
-      "suite": "micro",
+      "id": "suite_001-0232",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20495017,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0233",
-      "suite": "micro",
+      "id": "suite_001-0233",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20496026,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0234",
-      "suite": "micro",
+      "id": "suite_001-0234",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20497035,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0235",
-      "suite": "micro",
+      "id": "suite_001-0235",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20498044,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0236",
-      "suite": "micro",
+      "id": "suite_001-0236",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20499053,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0237",
-      "suite": "micro",
+      "id": "suite_001-0237",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20500062,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0238",
-      "suite": "micro",
+      "id": "suite_001-0238",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20501071,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0239",
-      "suite": "micro",
+      "id": "suite_001-0239",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20502080,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0240",
-      "suite": "micro",
+      "id": "suite_001-0240",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20503089,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0241",
-      "suite": "micro",
+      "id": "suite_001-0241",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20504098,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0242",
-      "suite": "micro",
+      "id": "suite_001-0242",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20505107,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0243",
-      "suite": "micro",
+      "id": "suite_001-0243",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20506116,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0244",
-      "suite": "micro",
+      "id": "suite_001-0244",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20507125,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0245",
-      "suite": "micro",
+      "id": "suite_001-0245",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20508134,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0246",
-      "suite": "micro",
+      "id": "suite_001-0246",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20509143,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0247",
-      "suite": "micro",
+      "id": "suite_001-0247",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20510152,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0248",
-      "suite": "micro",
+      "id": "suite_001-0248",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20511161,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0249",
-      "suite": "micro",
+      "id": "suite_001-0249",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20512170,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0250",
-      "suite": "micro",
+      "id": "suite_001-0250",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20513179,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0251",
-      "suite": "micro",
+      "id": "suite_001-0251",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20514188,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0252",
-      "suite": "micro",
+      "id": "suite_001-0252",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20515197,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0253",
-      "suite": "micro",
+      "id": "suite_001-0253",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20516206,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0254",
-      "suite": "micro",
+      "id": "suite_001-0254",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20517215,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0255",
-      "suite": "micro",
+      "id": "suite_001-0255",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20518224,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0256",
-      "suite": "micro",
+      "id": "suite_001-0256",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20519233,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0257",
-      "suite": "micro",
+      "id": "suite_001-0257",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20520242,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0258",
-      "suite": "micro",
+      "id": "suite_001-0258",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20521251,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0259",
-      "suite": "micro",
+      "id": "suite_001-0259",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20522260,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0260",
-      "suite": "micro",
+      "id": "suite_001-0260",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20523269,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0261",
-      "suite": "micro",
+      "id": "suite_001-0261",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20524278,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0262",
-      "suite": "micro",
+      "id": "suite_001-0262",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20525287,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0263",
-      "suite": "micro",
+      "id": "suite_001-0263",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20526296,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0264",
-      "suite": "micro",
+      "id": "suite_001-0264",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20527305,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0265",
-      "suite": "micro",
+      "id": "suite_001-0265",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20528314,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0266",
-      "suite": "micro",
+      "id": "suite_001-0266",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20529323,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0267",
-      "suite": "micro",
+      "id": "suite_001-0267",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20530332,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0268",
-      "suite": "micro",
+      "id": "suite_001-0268",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20531341,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0269",
-      "suite": "micro",
+      "id": "suite_001-0269",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20532350,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0270",
-      "suite": "micro",
+      "id": "suite_001-0270",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20533359,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0271",
-      "suite": "micro",
+      "id": "suite_001-0271",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20534368,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0272",
-      "suite": "micro",
+      "id": "suite_001-0272",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20535377,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0273",
-      "suite": "micro",
+      "id": "suite_001-0273",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20536386,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0274",
-      "suite": "micro",
+      "id": "suite_001-0274",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20537395,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0275",
-      "suite": "micro",
+      "id": "suite_001-0275",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20538404,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0276",
-      "suite": "micro",
+      "id": "suite_001-0276",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20539413,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0277",
-      "suite": "micro",
+      "id": "suite_001-0277",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20540422,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0278",
-      "suite": "micro",
+      "id": "suite_001-0278",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20541431,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0279",
-      "suite": "micro",
+      "id": "suite_001-0279",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20542440,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0280",
-      "suite": "micro",
+      "id": "suite_001-0280",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20543449,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0281",
-      "suite": "micro",
+      "id": "suite_001-0281",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20544458,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0282",
-      "suite": "micro",
+      "id": "suite_001-0282",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20545467,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0283",
-      "suite": "micro",
+      "id": "suite_001-0283",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20546476,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0284",
-      "suite": "micro",
+      "id": "suite_001-0284",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20547485,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0285",
-      "suite": "micro",
+      "id": "suite_001-0285",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20548494,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0286",
-      "suite": "micro",
+      "id": "suite_001-0286",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20549503,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0287",
-      "suite": "micro",
+      "id": "suite_001-0287",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20550512,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0288",
-      "suite": "micro",
+      "id": "suite_001-0288",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20551521,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0289",
-      "suite": "micro",
+      "id": "suite_001-0289",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20552530,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0290",
-      "suite": "micro",
+      "id": "suite_001-0290",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20553539,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0291",
-      "suite": "micro",
+      "id": "suite_001-0291",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20554548,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0292",
-      "suite": "micro",
+      "id": "suite_001-0292",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20555557,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0293",
-      "suite": "micro",
+      "id": "suite_001-0293",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20556566,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0294",
-      "suite": "micro",
+      "id": "suite_001-0294",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20557575,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0295",
-      "suite": "micro",
+      "id": "suite_001-0295",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20558584,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0296",
-      "suite": "micro",
+      "id": "suite_001-0296",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20559593,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0297",
-      "suite": "micro",
+      "id": "suite_001-0297",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20560602,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0298",
-      "suite": "micro",
+      "id": "suite_001-0298",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20561611,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0299",
-      "suite": "micro",
+      "id": "suite_001-0299",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20562620,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0300",
-      "suite": "micro",
+      "id": "suite_001-0300",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20563629,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0301",
-      "suite": "micro",
+      "id": "suite_001-0301",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20564638,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0302",
-      "suite": "micro",
+      "id": "suite_001-0302",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20565647,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0303",
-      "suite": "micro",
+      "id": "suite_001-0303",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20566656,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0304",
-      "suite": "micro",
+      "id": "suite_001-0304",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20567665,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0305",
-      "suite": "micro",
+      "id": "suite_001-0305",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20568674,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0306",
-      "suite": "micro",
+      "id": "suite_001-0306",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20569683,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0307",
-      "suite": "micro",
+      "id": "suite_001-0307",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20570692,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0308",
-      "suite": "micro",
+      "id": "suite_001-0308",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20571701,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0309",
-      "suite": "micro",
+      "id": "suite_001-0309",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20572710,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0310",
-      "suite": "micro",
+      "id": "suite_001-0310",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20573719,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0311",
-      "suite": "micro",
+      "id": "suite_001-0311",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20574728,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0312",
-      "suite": "micro",
+      "id": "suite_001-0312",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20575737,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0313",
-      "suite": "micro",
+      "id": "suite_001-0313",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20576746,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0314",
-      "suite": "micro",
+      "id": "suite_001-0314",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20577755,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0315",
-      "suite": "micro",
+      "id": "suite_001-0315",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20578764,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0316",
-      "suite": "micro",
+      "id": "suite_001-0316",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20579773,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0317",
-      "suite": "micro",
+      "id": "suite_001-0317",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20580782,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0318",
-      "suite": "micro",
+      "id": "suite_001-0318",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20581791,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0319",
-      "suite": "micro",
+      "id": "suite_001-0319",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20582800,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0320",
-      "suite": "micro",
+      "id": "suite_001-0320",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20583809,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0321",
-      "suite": "micro",
+      "id": "suite_001-0321",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20584818,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0322",
-      "suite": "micro",
+      "id": "suite_001-0322",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20585827,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0323",
-      "suite": "micro",
+      "id": "suite_001-0323",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20586836,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0324",
-      "suite": "micro",
+      "id": "suite_001-0324",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20587845,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0325",
-      "suite": "micro",
+      "id": "suite_001-0325",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20588854,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0326",
-      "suite": "micro",
+      "id": "suite_001-0326",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20589863,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0327",
-      "suite": "micro",
+      "id": "suite_001-0327",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20590872,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0328",
-      "suite": "micro",
+      "id": "suite_001-0328",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20591881,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0329",
-      "suite": "micro",
+      "id": "suite_001-0329",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20592890,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0330",
-      "suite": "micro",
+      "id": "suite_001-0330",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20593899,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0331",
-      "suite": "micro",
+      "id": "suite_001-0331",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20594908,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0332",
-      "suite": "micro",
+      "id": "suite_001-0332",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20595917,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0333",
-      "suite": "micro",
+      "id": "suite_001-0333",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20596926,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0334",
-      "suite": "micro",
+      "id": "suite_001-0334",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20597935,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0335",
-      "suite": "micro",
+      "id": "suite_001-0335",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20598944,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0336",
-      "suite": "micro",
+      "id": "suite_001-0336",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20599953,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0337",
-      "suite": "micro",
+      "id": "suite_001-0337",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20600962,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0338",
-      "suite": "micro",
+      "id": "suite_001-0338",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20601971,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0339",
-      "suite": "micro",
+      "id": "suite_001-0339",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20602980,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0340",
-      "suite": "micro",
+      "id": "suite_001-0340",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20603989,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0341",
-      "suite": "micro",
+      "id": "suite_001-0341",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20604998,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0342",
-      "suite": "micro",
+      "id": "suite_001-0342",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20606007,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0343",
-      "suite": "micro",
+      "id": "suite_001-0343",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20607016,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0344",
-      "suite": "micro",
+      "id": "suite_001-0344",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20608025,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0345",
-      "suite": "micro",
+      "id": "suite_001-0345",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20609034,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0346",
-      "suite": "micro",
+      "id": "suite_001-0346",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20610043,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0347",
-      "suite": "micro",
+      "id": "suite_001-0347",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20611052,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0348",
-      "suite": "micro",
+      "id": "suite_001-0348",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20612061,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0349",
-      "suite": "micro",
+      "id": "suite_001-0349",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20613070,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0350",
-      "suite": "micro",
+      "id": "suite_001-0350",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20614079,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0351",
-      "suite": "micro",
+      "id": "suite_001-0351",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20615088,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0352",
-      "suite": "micro",
+      "id": "suite_001-0352",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20616097,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0353",
-      "suite": "micro",
+      "id": "suite_001-0353",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20617106,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0354",
-      "suite": "micro",
+      "id": "suite_001-0354",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20618115,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0355",
-      "suite": "micro",
+      "id": "suite_001-0355",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20619124,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0356",
-      "suite": "micro",
+      "id": "suite_001-0356",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20620133,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0357",
-      "suite": "micro",
+      "id": "suite_001-0357",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20621142,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0358",
-      "suite": "micro",
+      "id": "suite_001-0358",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20622151,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0359",
-      "suite": "micro",
+      "id": "suite_001-0359",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20623160,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0360",
-      "suite": "micro",
+      "id": "suite_001-0360",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20624169,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0361",
-      "suite": "micro",
+      "id": "suite_001-0361",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20625178,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0362",
-      "suite": "micro",
+      "id": "suite_001-0362",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20626187,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0363",
-      "suite": "micro",
+      "id": "suite_001-0363",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20627196,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0364",
-      "suite": "micro",
+      "id": "suite_001-0364",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20628205,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0365",
-      "suite": "micro",
+      "id": "suite_001-0365",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20629214,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0366",
-      "suite": "micro",
+      "id": "suite_001-0366",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20630223,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0367",
-      "suite": "micro",
+      "id": "suite_001-0367",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20631232,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0368",
-      "suite": "micro",
+      "id": "suite_001-0368",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20632241,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0369",
-      "suite": "micro",
+      "id": "suite_001-0369",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20633250,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0370",
-      "suite": "micro",
+      "id": "suite_001-0370",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20634259,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0371",
-      "suite": "micro",
+      "id": "suite_001-0371",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20635268,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0372",
-      "suite": "micro",
+      "id": "suite_001-0372",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20636277,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0373",
-      "suite": "micro",
+      "id": "suite_001-0373",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20637286,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0374",
-      "suite": "micro",
+      "id": "suite_001-0374",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20638295,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0375",
-      "suite": "micro",
+      "id": "suite_001-0375",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20639304,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0376",
-      "suite": "micro",
+      "id": "suite_001-0376",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20640313,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0377",
-      "suite": "micro",
+      "id": "suite_001-0377",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20641322,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0378",
-      "suite": "micro",
+      "id": "suite_001-0378",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20642331,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0379",
-      "suite": "micro",
+      "id": "suite_001-0379",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20643340,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0380",
-      "suite": "micro",
+      "id": "suite_001-0380",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20644349,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0381",
-      "suite": "micro",
+      "id": "suite_001-0381",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20645358,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0382",
-      "suite": "micro",
+      "id": "suite_001-0382",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20646367,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0383",
-      "suite": "micro",
+      "id": "suite_001-0383",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20647376,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0384",
-      "suite": "micro",
+      "id": "suite_001-0384",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20648385,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0385",
-      "suite": "micro",
+      "id": "suite_001-0385",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20649394,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0386",
-      "suite": "micro",
+      "id": "suite_001-0386",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20650403,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0387",
-      "suite": "micro",
+      "id": "suite_001-0387",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20651412,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0388",
-      "suite": "micro",
+      "id": "suite_001-0388",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20652421,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0389",
-      "suite": "micro",
+      "id": "suite_001-0389",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20653430,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0390",
-      "suite": "micro",
+      "id": "suite_001-0390",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20654439,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0391",
-      "suite": "micro",
+      "id": "suite_001-0391",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20655448,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0392",
-      "suite": "micro",
+      "id": "suite_001-0392",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20656457,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0393",
-      "suite": "micro",
+      "id": "suite_001-0393",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20657466,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0394",
-      "suite": "micro",
+      "id": "suite_001-0394",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20658475,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0395",
-      "suite": "micro",
+      "id": "suite_001-0395",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20659484,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0396",
-      "suite": "micro",
+      "id": "suite_001-0396",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20660493,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0397",
-      "suite": "micro",
+      "id": "suite_001-0397",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20661502,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0398",
-      "suite": "micro",
+      "id": "suite_001-0398",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20662511,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0399",
-      "suite": "micro",
+      "id": "suite_001-0399",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20663520,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0400",
-      "suite": "micro",
+      "id": "suite_001-0400",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20664529,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0401",
-      "suite": "micro",
+      "id": "suite_001-0401",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20665538,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0402",
-      "suite": "micro",
+      "id": "suite_001-0402",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20666547,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0403",
-      "suite": "micro",
+      "id": "suite_001-0403",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20667556,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0404",
-      "suite": "micro",
+      "id": "suite_001-0404",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20668565,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0405",
-      "suite": "micro",
+      "id": "suite_001-0405",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20669574,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0406",
-      "suite": "micro",
+      "id": "suite_001-0406",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20670583,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0407",
-      "suite": "micro",
+      "id": "suite_001-0407",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20671592,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0408",
-      "suite": "micro",
+      "id": "suite_001-0408",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20672601,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0409",
-      "suite": "micro",
+      "id": "suite_001-0409",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20673610,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0410",
-      "suite": "micro",
+      "id": "suite_001-0410",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20674619,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0411",
-      "suite": "micro",
+      "id": "suite_001-0411",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20675628,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0412",
-      "suite": "micro",
+      "id": "suite_001-0412",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20676637,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0413",
-      "suite": "micro",
+      "id": "suite_001-0413",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20677646,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0414",
-      "suite": "micro",
+      "id": "suite_001-0414",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20678655,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0415",
-      "suite": "micro",
+      "id": "suite_001-0415",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20679664,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0416",
-      "suite": "micro",
+      "id": "suite_001-0416",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20680673,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0417",
-      "suite": "micro",
+      "id": "suite_001-0417",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20681682,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0418",
-      "suite": "micro",
+      "id": "suite_001-0418",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20682691,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0419",
-      "suite": "micro",
+      "id": "suite_001-0419",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20683700,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0420",
-      "suite": "micro",
+      "id": "suite_001-0420",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20684709,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0421",
-      "suite": "micro",
+      "id": "suite_001-0421",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20685718,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0422",
-      "suite": "micro",
+      "id": "suite_001-0422",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20686727,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0423",
-      "suite": "micro",
+      "id": "suite_001-0423",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20687736,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0424",
-      "suite": "micro",
+      "id": "suite_001-0424",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20688745,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0425",
-      "suite": "micro",
+      "id": "suite_001-0425",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20689754,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0426",
-      "suite": "micro",
+      "id": "suite_001-0426",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20690763,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0427",
-      "suite": "micro",
+      "id": "suite_001-0427",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20691772,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0428",
-      "suite": "micro",
+      "id": "suite_001-0428",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20692781,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0429",
-      "suite": "micro",
+      "id": "suite_001-0429",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20693790,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0430",
-      "suite": "micro",
+      "id": "suite_001-0430",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20694799,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0431",
-      "suite": "micro",
+      "id": "suite_001-0431",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20695808,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0432",
-      "suite": "micro",
+      "id": "suite_001-0432",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20696817,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0433",
-      "suite": "micro",
+      "id": "suite_001-0433",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20697826,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0434",
-      "suite": "micro",
+      "id": "suite_001-0434",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20698835,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0435",
-      "suite": "micro",
+      "id": "suite_001-0435",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20699844,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0436",
-      "suite": "micro",
+      "id": "suite_001-0436",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20700853,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0437",
-      "suite": "micro",
+      "id": "suite_001-0437",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20701862,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0438",
-      "suite": "micro",
+      "id": "suite_001-0438",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20702871,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0439",
-      "suite": "micro",
+      "id": "suite_001-0439",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20703880,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0440",
-      "suite": "micro",
+      "id": "suite_001-0440",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20704889,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0441",
-      "suite": "micro",
+      "id": "suite_001-0441",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20705898,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0442",
-      "suite": "micro",
+      "id": "suite_001-0442",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20706907,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0443",
-      "suite": "micro",
+      "id": "suite_001-0443",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20707916,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0444",
-      "suite": "micro",
+      "id": "suite_001-0444",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20708925,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0445",
-      "suite": "micro",
+      "id": "suite_001-0445",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20709934,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0446",
-      "suite": "micro",
+      "id": "suite_001-0446",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20710943,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0447",
-      "suite": "micro",
+      "id": "suite_001-0447",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20711952,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0448",
-      "suite": "micro",
+      "id": "suite_001-0448",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20712961,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0449",
-      "suite": "micro",
+      "id": "suite_001-0449",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20713970,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0450",
-      "suite": "micro",
+      "id": "suite_001-0450",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20714979,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0451",
-      "suite": "micro",
+      "id": "suite_001-0451",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20715988,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0452",
-      "suite": "micro",
+      "id": "suite_001-0452",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20716997,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0453",
-      "suite": "micro",
+      "id": "suite_001-0453",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20718006,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0454",
-      "suite": "micro",
+      "id": "suite_001-0454",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20719015,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0455",
-      "suite": "micro",
+      "id": "suite_001-0455",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20720024,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0456",
-      "suite": "micro",
+      "id": "suite_001-0456",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20721033,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0457",
-      "suite": "micro",
+      "id": "suite_001-0457",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20722042,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0458",
-      "suite": "micro",
+      "id": "suite_001-0458",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20723051,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0459",
-      "suite": "micro",
+      "id": "suite_001-0459",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20724060,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0460",
-      "suite": "micro",
+      "id": "suite_001-0460",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20725069,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0461",
-      "suite": "micro",
+      "id": "suite_001-0461",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20726078,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0462",
-      "suite": "micro",
+      "id": "suite_001-0462",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20727087,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0463",
-      "suite": "micro",
+      "id": "suite_001-0463",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20728096,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0464",
-      "suite": "micro",
+      "id": "suite_001-0464",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20729105,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0465",
-      "suite": "micro",
+      "id": "suite_001-0465",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20730114,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0466",
-      "suite": "micro",
+      "id": "suite_001-0466",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20731123,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0467",
-      "suite": "micro",
+      "id": "suite_001-0467",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20732132,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0468",
-      "suite": "micro",
+      "id": "suite_001-0468",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20733141,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0469",
-      "suite": "micro",
+      "id": "suite_001-0469",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20734150,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0470",
-      "suite": "micro",
+      "id": "suite_001-0470",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20735159,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0471",
-      "suite": "micro",
+      "id": "suite_001-0471",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20736168,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0472",
-      "suite": "micro",
+      "id": "suite_001-0472",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20737177,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0473",
-      "suite": "micro",
+      "id": "suite_001-0473",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20738186,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0474",
-      "suite": "micro",
+      "id": "suite_001-0474",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20739195,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0475",
-      "suite": "micro",
+      "id": "suite_001-0475",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20740204,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0476",
-      "suite": "micro",
+      "id": "suite_001-0476",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20741213,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0477",
-      "suite": "micro",
+      "id": "suite_001-0477",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20742222,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0478",
-      "suite": "micro",
+      "id": "suite_001-0478",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20743231,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0479",
-      "suite": "micro",
+      "id": "suite_001-0479",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20744240,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0480",
-      "suite": "micro",
+      "id": "suite_001-0480",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20745249,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0481",
-      "suite": "micro",
+      "id": "suite_001-0481",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20746258,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0482",
-      "suite": "micro",
+      "id": "suite_001-0482",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20747267,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0483",
-      "suite": "micro",
+      "id": "suite_001-0483",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20748276,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0484",
-      "suite": "micro",
+      "id": "suite_001-0484",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20749285,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0485",
-      "suite": "micro",
+      "id": "suite_001-0485",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20750294,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0486",
-      "suite": "micro",
+      "id": "suite_001-0486",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20751303,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0487",
-      "suite": "micro",
+      "id": "suite_001-0487",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20752312,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0488",
-      "suite": "micro",
+      "id": "suite_001-0488",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20753321,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0489",
-      "suite": "micro",
+      "id": "suite_001-0489",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20754330,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0490",
-      "suite": "micro",
+      "id": "suite_001-0490",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20755339,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0491",
-      "suite": "micro",
+      "id": "suite_001-0491",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20756348,
       "discount_factor": 0.95
     },
     {
-      "id": "micro-0492",
-      "suite": "micro",
+      "id": "suite_001-0492",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20757357,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0493",
-      "suite": "micro",
+      "id": "suite_001-0493",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20758366,
       "discount_factor": 0.99
     },
     {
-      "id": "micro-0494",
-      "suite": "micro",
+      "id": "suite_001-0494",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20759375,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0495",
-      "suite": "micro",
+      "id": "suite_001-0495",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20760384,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0496",
-      "suite": "micro",
+      "id": "suite_001-0496",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20761393,
       "discount_factor": 0.5
     },
     {
-      "id": "micro-0497",
-      "suite": "micro",
+      "id": "suite_001-0497",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20762402,
       "discount_factor": 0.999
     },
     {
-      "id": "micro-0498",
-      "suite": "micro",
+      "id": "suite_001-0498",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20763411,
       "discount_factor": 0.8
     },
     {
-      "id": "micro-0499",
-      "suite": "micro",
+      "id": "suite_001-0499",
+      "suite": "suite_001",
       "part": "b",
       "seed": 20764420,
       "discount_factor": 0.999

@@ -1,7 +1,7 @@
 {
   "version": 1,
   "part": "b",
-  "suite": "stress",
+  "suite": "suite_003",
   "seed": 22260935,
   "count": 500,
   "settings": {
@@ -11,3501 +11,3501 @@
   },
   "cases": [
     {
-      "id": "stress-0000",
-      "suite": "stress",
+      "id": "suite_003-0000",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22260935,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0001",
-      "suite": "stress",
+      "id": "suite_003-0001",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22261944,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0002",
-      "suite": "stress",
+      "id": "suite_003-0002",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22262953,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0003",
-      "suite": "stress",
+      "id": "suite_003-0003",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22263962,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0004",
-      "suite": "stress",
+      "id": "suite_003-0004",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22264971,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0005",
-      "suite": "stress",
+      "id": "suite_003-0005",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22265980,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0006",
-      "suite": "stress",
+      "id": "suite_003-0006",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22266989,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0007",
-      "suite": "stress",
+      "id": "suite_003-0007",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22267998,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0008",
-      "suite": "stress",
+      "id": "suite_003-0008",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22269007,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0009",
-      "suite": "stress",
+      "id": "suite_003-0009",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22270016,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0010",
-      "suite": "stress",
+      "id": "suite_003-0010",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22271025,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0011",
-      "suite": "stress",
+      "id": "suite_003-0011",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22272034,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0012",
-      "suite": "stress",
+      "id": "suite_003-0012",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22273043,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0013",
-      "suite": "stress",
+      "id": "suite_003-0013",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22274052,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0014",
-      "suite": "stress",
+      "id": "suite_003-0014",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22275061,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0015",
-      "suite": "stress",
+      "id": "suite_003-0015",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22276070,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0016",
-      "suite": "stress",
+      "id": "suite_003-0016",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22277079,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0017",
-      "suite": "stress",
+      "id": "suite_003-0017",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22278088,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0018",
-      "suite": "stress",
+      "id": "suite_003-0018",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22279097,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0019",
-      "suite": "stress",
+      "id": "suite_003-0019",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22280106,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0020",
-      "suite": "stress",
+      "id": "suite_003-0020",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22281115,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0021",
-      "suite": "stress",
+      "id": "suite_003-0021",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22282124,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0022",
-      "suite": "stress",
+      "id": "suite_003-0022",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22283133,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0023",
-      "suite": "stress",
+      "id": "suite_003-0023",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22284142,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0024",
-      "suite": "stress",
+      "id": "suite_003-0024",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22285151,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0025",
-      "suite": "stress",
+      "id": "suite_003-0025",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22286160,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0026",
-      "suite": "stress",
+      "id": "suite_003-0026",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22287169,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0027",
-      "suite": "stress",
+      "id": "suite_003-0027",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22288178,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0028",
-      "suite": "stress",
+      "id": "suite_003-0028",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22289187,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0029",
-      "suite": "stress",
+      "id": "suite_003-0029",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22290196,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0030",
-      "suite": "stress",
+      "id": "suite_003-0030",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22291205,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0031",
-      "suite": "stress",
+      "id": "suite_003-0031",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22292214,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0032",
-      "suite": "stress",
+      "id": "suite_003-0032",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22293223,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0033",
-      "suite": "stress",
+      "id": "suite_003-0033",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22294232,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0034",
-      "suite": "stress",
+      "id": "suite_003-0034",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22295241,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0035",
-      "suite": "stress",
+      "id": "suite_003-0035",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22296250,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0036",
-      "suite": "stress",
+      "id": "suite_003-0036",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22297259,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0037",
-      "suite": "stress",
+      "id": "suite_003-0037",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22298268,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0038",
-      "suite": "stress",
+      "id": "suite_003-0038",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22299277,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0039",
-      "suite": "stress",
+      "id": "suite_003-0039",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22300286,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0040",
-      "suite": "stress",
+      "id": "suite_003-0040",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22301295,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0041",
-      "suite": "stress",
+      "id": "suite_003-0041",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22302304,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0042",
-      "suite": "stress",
+      "id": "suite_003-0042",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22303313,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0043",
-      "suite": "stress",
+      "id": "suite_003-0043",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22304322,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0044",
-      "suite": "stress",
+      "id": "suite_003-0044",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22305331,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0045",
-      "suite": "stress",
+      "id": "suite_003-0045",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22306340,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0046",
-      "suite": "stress",
+      "id": "suite_003-0046",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22307349,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0047",
-      "suite": "stress",
+      "id": "suite_003-0047",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22308358,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0048",
-      "suite": "stress",
+      "id": "suite_003-0048",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22309367,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0049",
-      "suite": "stress",
+      "id": "suite_003-0049",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22310376,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0050",
-      "suite": "stress",
+      "id": "suite_003-0050",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22311385,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0051",
-      "suite": "stress",
+      "id": "suite_003-0051",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22312394,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0052",
-      "suite": "stress",
+      "id": "suite_003-0052",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22313403,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0053",
-      "suite": "stress",
+      "id": "suite_003-0053",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22314412,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0054",
-      "suite": "stress",
+      "id": "suite_003-0054",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22315421,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0055",
-      "suite": "stress",
+      "id": "suite_003-0055",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22316430,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0056",
-      "suite": "stress",
+      "id": "suite_003-0056",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22317439,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0057",
-      "suite": "stress",
+      "id": "suite_003-0057",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22318448,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0058",
-      "suite": "stress",
+      "id": "suite_003-0058",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22319457,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0059",
-      "suite": "stress",
+      "id": "suite_003-0059",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22320466,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0060",
-      "suite": "stress",
+      "id": "suite_003-0060",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22321475,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0061",
-      "suite": "stress",
+      "id": "suite_003-0061",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22322484,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0062",
-      "suite": "stress",
+      "id": "suite_003-0062",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22323493,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0063",
-      "suite": "stress",
+      "id": "suite_003-0063",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22324502,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0064",
-      "suite": "stress",
+      "id": "suite_003-0064",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22325511,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0065",
-      "suite": "stress",
+      "id": "suite_003-0065",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22326520,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0066",
-      "suite": "stress",
+      "id": "suite_003-0066",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22327529,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0067",
-      "suite": "stress",
+      "id": "suite_003-0067",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22328538,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0068",
-      "suite": "stress",
+      "id": "suite_003-0068",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22329547,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0069",
-      "suite": "stress",
+      "id": "suite_003-0069",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22330556,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0070",
-      "suite": "stress",
+      "id": "suite_003-0070",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22331565,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0071",
-      "suite": "stress",
+      "id": "suite_003-0071",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22332574,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0072",
-      "suite": "stress",
+      "id": "suite_003-0072",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22333583,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0073",
-      "suite": "stress",
+      "id": "suite_003-0073",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22334592,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0074",
-      "suite": "stress",
+      "id": "suite_003-0074",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22335601,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0075",
-      "suite": "stress",
+      "id": "suite_003-0075",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22336610,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0076",
-      "suite": "stress",
+      "id": "suite_003-0076",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22337619,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0077",
-      "suite": "stress",
+      "id": "suite_003-0077",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22338628,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0078",
-      "suite": "stress",
+      "id": "suite_003-0078",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22339637,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0079",
-      "suite": "stress",
+      "id": "suite_003-0079",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22340646,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0080",
-      "suite": "stress",
+      "id": "suite_003-0080",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22341655,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0081",
-      "suite": "stress",
+      "id": "suite_003-0081",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22342664,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0082",
-      "suite": "stress",
+      "id": "suite_003-0082",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22343673,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0083",
-      "suite": "stress",
+      "id": "suite_003-0083",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22344682,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0084",
-      "suite": "stress",
+      "id": "suite_003-0084",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22345691,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0085",
-      "suite": "stress",
+      "id": "suite_003-0085",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22346700,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0086",
-      "suite": "stress",
+      "id": "suite_003-0086",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22347709,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0087",
-      "suite": "stress",
+      "id": "suite_003-0087",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22348718,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0088",
-      "suite": "stress",
+      "id": "suite_003-0088",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22349727,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0089",
-      "suite": "stress",
+      "id": "suite_003-0089",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22350736,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0090",
-      "suite": "stress",
+      "id": "suite_003-0090",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22351745,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0091",
-      "suite": "stress",
+      "id": "suite_003-0091",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22352754,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0092",
-      "suite": "stress",
+      "id": "suite_003-0092",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22353763,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0093",
-      "suite": "stress",
+      "id": "suite_003-0093",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22354772,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0094",
-      "suite": "stress",
+      "id": "suite_003-0094",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22355781,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0095",
-      "suite": "stress",
+      "id": "suite_003-0095",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22356790,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0096",
-      "suite": "stress",
+      "id": "suite_003-0096",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22357799,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0097",
-      "suite": "stress",
+      "id": "suite_003-0097",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22358808,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0098",
-      "suite": "stress",
+      "id": "suite_003-0098",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22359817,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0099",
-      "suite": "stress",
+      "id": "suite_003-0099",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22360826,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0100",
-      "suite": "stress",
+      "id": "suite_003-0100",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22361835,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0101",
-      "suite": "stress",
+      "id": "suite_003-0101",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22362844,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0102",
-      "suite": "stress",
+      "id": "suite_003-0102",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22363853,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0103",
-      "suite": "stress",
+      "id": "suite_003-0103",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22364862,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0104",
-      "suite": "stress",
+      "id": "suite_003-0104",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22365871,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0105",
-      "suite": "stress",
+      "id": "suite_003-0105",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22366880,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0106",
-      "suite": "stress",
+      "id": "suite_003-0106",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22367889,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0107",
-      "suite": "stress",
+      "id": "suite_003-0107",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22368898,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0108",
-      "suite": "stress",
+      "id": "suite_003-0108",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22369907,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0109",
-      "suite": "stress",
+      "id": "suite_003-0109",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22370916,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0110",
-      "suite": "stress",
+      "id": "suite_003-0110",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22371925,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0111",
-      "suite": "stress",
+      "id": "suite_003-0111",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22372934,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0112",
-      "suite": "stress",
+      "id": "suite_003-0112",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22373943,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0113",
-      "suite": "stress",
+      "id": "suite_003-0113",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22374952,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0114",
-      "suite": "stress",
+      "id": "suite_003-0114",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22375961,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0115",
-      "suite": "stress",
+      "id": "suite_003-0115",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22376970,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0116",
-      "suite": "stress",
+      "id": "suite_003-0116",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22377979,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0117",
-      "suite": "stress",
+      "id": "suite_003-0117",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22378988,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0118",
-      "suite": "stress",
+      "id": "suite_003-0118",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22379997,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0119",
-      "suite": "stress",
+      "id": "suite_003-0119",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22381006,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0120",
-      "suite": "stress",
+      "id": "suite_003-0120",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22382015,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0121",
-      "suite": "stress",
+      "id": "suite_003-0121",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22383024,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0122",
-      "suite": "stress",
+      "id": "suite_003-0122",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22384033,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0123",
-      "suite": "stress",
+      "id": "suite_003-0123",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22385042,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0124",
-      "suite": "stress",
+      "id": "suite_003-0124",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22386051,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0125",
-      "suite": "stress",
+      "id": "suite_003-0125",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22387060,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0126",
-      "suite": "stress",
+      "id": "suite_003-0126",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22388069,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0127",
-      "suite": "stress",
+      "id": "suite_003-0127",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22389078,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0128",
-      "suite": "stress",
+      "id": "suite_003-0128",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22390087,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0129",
-      "suite": "stress",
+      "id": "suite_003-0129",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22391096,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0130",
-      "suite": "stress",
+      "id": "suite_003-0130",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22392105,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0131",
-      "suite": "stress",
+      "id": "suite_003-0131",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22393114,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0132",
-      "suite": "stress",
+      "id": "suite_003-0132",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22394123,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0133",
-      "suite": "stress",
+      "id": "suite_003-0133",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22395132,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0134",
-      "suite": "stress",
+      "id": "suite_003-0134",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22396141,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0135",
-      "suite": "stress",
+      "id": "suite_003-0135",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22397150,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0136",
-      "suite": "stress",
+      "id": "suite_003-0136",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22398159,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0137",
-      "suite": "stress",
+      "id": "suite_003-0137",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22399168,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0138",
-      "suite": "stress",
+      "id": "suite_003-0138",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22400177,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0139",
-      "suite": "stress",
+      "id": "suite_003-0139",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22401186,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0140",
-      "suite": "stress",
+      "id": "suite_003-0140",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22402195,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0141",
-      "suite": "stress",
+      "id": "suite_003-0141",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22403204,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0142",
-      "suite": "stress",
+      "id": "suite_003-0142",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22404213,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0143",
-      "suite": "stress",
+      "id": "suite_003-0143",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22405222,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0144",
-      "suite": "stress",
+      "id": "suite_003-0144",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22406231,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0145",
-      "suite": "stress",
+      "id": "suite_003-0145",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22407240,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0146",
-      "suite": "stress",
+      "id": "suite_003-0146",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22408249,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0147",
-      "suite": "stress",
+      "id": "suite_003-0147",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22409258,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0148",
-      "suite": "stress",
+      "id": "suite_003-0148",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22410267,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0149",
-      "suite": "stress",
+      "id": "suite_003-0149",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22411276,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0150",
-      "suite": "stress",
+      "id": "suite_003-0150",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22412285,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0151",
-      "suite": "stress",
+      "id": "suite_003-0151",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22413294,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0152",
-      "suite": "stress",
+      "id": "suite_003-0152",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22414303,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0153",
-      "suite": "stress",
+      "id": "suite_003-0153",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22415312,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0154",
-      "suite": "stress",
+      "id": "suite_003-0154",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22416321,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0155",
-      "suite": "stress",
+      "id": "suite_003-0155",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22417330,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0156",
-      "suite": "stress",
+      "id": "suite_003-0156",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22418339,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0157",
-      "suite": "stress",
+      "id": "suite_003-0157",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22419348,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0158",
-      "suite": "stress",
+      "id": "suite_003-0158",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22420357,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0159",
-      "suite": "stress",
+      "id": "suite_003-0159",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22421366,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0160",
-      "suite": "stress",
+      "id": "suite_003-0160",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22422375,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0161",
-      "suite": "stress",
+      "id": "suite_003-0161",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22423384,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0162",
-      "suite": "stress",
+      "id": "suite_003-0162",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22424393,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0163",
-      "suite": "stress",
+      "id": "suite_003-0163",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22425402,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0164",
-      "suite": "stress",
+      "id": "suite_003-0164",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22426411,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0165",
-      "suite": "stress",
+      "id": "suite_003-0165",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22427420,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0166",
-      "suite": "stress",
+      "id": "suite_003-0166",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22428429,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0167",
-      "suite": "stress",
+      "id": "suite_003-0167",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22429438,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0168",
-      "suite": "stress",
+      "id": "suite_003-0168",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22430447,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0169",
-      "suite": "stress",
+      "id": "suite_003-0169",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22431456,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0170",
-      "suite": "stress",
+      "id": "suite_003-0170",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22432465,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0171",
-      "suite": "stress",
+      "id": "suite_003-0171",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22433474,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0172",
-      "suite": "stress",
+      "id": "suite_003-0172",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22434483,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0173",
-      "suite": "stress",
+      "id": "suite_003-0173",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22435492,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0174",
-      "suite": "stress",
+      "id": "suite_003-0174",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22436501,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0175",
-      "suite": "stress",
+      "id": "suite_003-0175",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22437510,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0176",
-      "suite": "stress",
+      "id": "suite_003-0176",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22438519,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0177",
-      "suite": "stress",
+      "id": "suite_003-0177",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22439528,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0178",
-      "suite": "stress",
+      "id": "suite_003-0178",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22440537,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0179",
-      "suite": "stress",
+      "id": "suite_003-0179",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22441546,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0180",
-      "suite": "stress",
+      "id": "suite_003-0180",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22442555,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0181",
-      "suite": "stress",
+      "id": "suite_003-0181",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22443564,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0182",
-      "suite": "stress",
+      "id": "suite_003-0182",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22444573,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0183",
-      "suite": "stress",
+      "id": "suite_003-0183",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22445582,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0184",
-      "suite": "stress",
+      "id": "suite_003-0184",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22446591,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0185",
-      "suite": "stress",
+      "id": "suite_003-0185",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22447600,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0186",
-      "suite": "stress",
+      "id": "suite_003-0186",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22448609,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0187",
-      "suite": "stress",
+      "id": "suite_003-0187",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22449618,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0188",
-      "suite": "stress",
+      "id": "suite_003-0188",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22450627,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0189",
-      "suite": "stress",
+      "id": "suite_003-0189",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22451636,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0190",
-      "suite": "stress",
+      "id": "suite_003-0190",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22452645,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0191",
-      "suite": "stress",
+      "id": "suite_003-0191",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22453654,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0192",
-      "suite": "stress",
+      "id": "suite_003-0192",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22454663,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0193",
-      "suite": "stress",
+      "id": "suite_003-0193",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22455672,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0194",
-      "suite": "stress",
+      "id": "suite_003-0194",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22456681,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0195",
-      "suite": "stress",
+      "id": "suite_003-0195",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22457690,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0196",
-      "suite": "stress",
+      "id": "suite_003-0196",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22458699,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0197",
-      "suite": "stress",
+      "id": "suite_003-0197",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22459708,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0198",
-      "suite": "stress",
+      "id": "suite_003-0198",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22460717,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0199",
-      "suite": "stress",
+      "id": "suite_003-0199",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22461726,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0200",
-      "suite": "stress",
+      "id": "suite_003-0200",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22462735,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0201",
-      "suite": "stress",
+      "id": "suite_003-0201",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22463744,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0202",
-      "suite": "stress",
+      "id": "suite_003-0202",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22464753,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0203",
-      "suite": "stress",
+      "id": "suite_003-0203",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22465762,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0204",
-      "suite": "stress",
+      "id": "suite_003-0204",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22466771,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0205",
-      "suite": "stress",
+      "id": "suite_003-0205",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22467780,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0206",
-      "suite": "stress",
+      "id": "suite_003-0206",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22468789,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0207",
-      "suite": "stress",
+      "id": "suite_003-0207",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22469798,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0208",
-      "suite": "stress",
+      "id": "suite_003-0208",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22470807,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0209",
-      "suite": "stress",
+      "id": "suite_003-0209",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22471816,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0210",
-      "suite": "stress",
+      "id": "suite_003-0210",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22472825,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0211",
-      "suite": "stress",
+      "id": "suite_003-0211",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22473834,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0212",
-      "suite": "stress",
+      "id": "suite_003-0212",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22474843,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0213",
-      "suite": "stress",
+      "id": "suite_003-0213",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22475852,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0214",
-      "suite": "stress",
+      "id": "suite_003-0214",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22476861,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0215",
-      "suite": "stress",
+      "id": "suite_003-0215",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22477870,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0216",
-      "suite": "stress",
+      "id": "suite_003-0216",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22478879,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0217",
-      "suite": "stress",
+      "id": "suite_003-0217",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22479888,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0218",
-      "suite": "stress",
+      "id": "suite_003-0218",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22480897,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0219",
-      "suite": "stress",
+      "id": "suite_003-0219",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22481906,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0220",
-      "suite": "stress",
+      "id": "suite_003-0220",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22482915,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0221",
-      "suite": "stress",
+      "id": "suite_003-0221",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22483924,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0222",
-      "suite": "stress",
+      "id": "suite_003-0222",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22484933,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0223",
-      "suite": "stress",
+      "id": "suite_003-0223",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22485942,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0224",
-      "suite": "stress",
+      "id": "suite_003-0224",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22486951,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0225",
-      "suite": "stress",
+      "id": "suite_003-0225",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22487960,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0226",
-      "suite": "stress",
+      "id": "suite_003-0226",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22488969,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0227",
-      "suite": "stress",
+      "id": "suite_003-0227",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22489978,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0228",
-      "suite": "stress",
+      "id": "suite_003-0228",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22490987,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0229",
-      "suite": "stress",
+      "id": "suite_003-0229",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22491996,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0230",
-      "suite": "stress",
+      "id": "suite_003-0230",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22493005,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0231",
-      "suite": "stress",
+      "id": "suite_003-0231",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22494014,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0232",
-      "suite": "stress",
+      "id": "suite_003-0232",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22495023,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0233",
-      "suite": "stress",
+      "id": "suite_003-0233",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22496032,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0234",
-      "suite": "stress",
+      "id": "suite_003-0234",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22497041,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0235",
-      "suite": "stress",
+      "id": "suite_003-0235",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22498050,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0236",
-      "suite": "stress",
+      "id": "suite_003-0236",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22499059,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0237",
-      "suite": "stress",
+      "id": "suite_003-0237",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22500068,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0238",
-      "suite": "stress",
+      "id": "suite_003-0238",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22501077,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0239",
-      "suite": "stress",
+      "id": "suite_003-0239",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22502086,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0240",
-      "suite": "stress",
+      "id": "suite_003-0240",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22503095,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0241",
-      "suite": "stress",
+      "id": "suite_003-0241",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22504104,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0242",
-      "suite": "stress",
+      "id": "suite_003-0242",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22505113,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0243",
-      "suite": "stress",
+      "id": "suite_003-0243",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22506122,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0244",
-      "suite": "stress",
+      "id": "suite_003-0244",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22507131,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0245",
-      "suite": "stress",
+      "id": "suite_003-0245",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22508140,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0246",
-      "suite": "stress",
+      "id": "suite_003-0246",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22509149,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0247",
-      "suite": "stress",
+      "id": "suite_003-0247",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22510158,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0248",
-      "suite": "stress",
+      "id": "suite_003-0248",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22511167,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0249",
-      "suite": "stress",
+      "id": "suite_003-0249",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22512176,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0250",
-      "suite": "stress",
+      "id": "suite_003-0250",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22513185,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0251",
-      "suite": "stress",
+      "id": "suite_003-0251",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22514194,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0252",
-      "suite": "stress",
+      "id": "suite_003-0252",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22515203,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0253",
-      "suite": "stress",
+      "id": "suite_003-0253",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22516212,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0254",
-      "suite": "stress",
+      "id": "suite_003-0254",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22517221,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0255",
-      "suite": "stress",
+      "id": "suite_003-0255",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22518230,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0256",
-      "suite": "stress",
+      "id": "suite_003-0256",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22519239,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0257",
-      "suite": "stress",
+      "id": "suite_003-0257",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22520248,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0258",
-      "suite": "stress",
+      "id": "suite_003-0258",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22521257,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0259",
-      "suite": "stress",
+      "id": "suite_003-0259",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22522266,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0260",
-      "suite": "stress",
+      "id": "suite_003-0260",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22523275,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0261",
-      "suite": "stress",
+      "id": "suite_003-0261",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22524284,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0262",
-      "suite": "stress",
+      "id": "suite_003-0262",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22525293,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0263",
-      "suite": "stress",
+      "id": "suite_003-0263",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22526302,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0264",
-      "suite": "stress",
+      "id": "suite_003-0264",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22527311,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0265",
-      "suite": "stress",
+      "id": "suite_003-0265",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22528320,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0266",
-      "suite": "stress",
+      "id": "suite_003-0266",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22529329,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0267",
-      "suite": "stress",
+      "id": "suite_003-0267",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22530338,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0268",
-      "suite": "stress",
+      "id": "suite_003-0268",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22531347,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0269",
-      "suite": "stress",
+      "id": "suite_003-0269",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22532356,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0270",
-      "suite": "stress",
+      "id": "suite_003-0270",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22533365,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0271",
-      "suite": "stress",
+      "id": "suite_003-0271",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22534374,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0272",
-      "suite": "stress",
+      "id": "suite_003-0272",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22535383,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0273",
-      "suite": "stress",
+      "id": "suite_003-0273",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22536392,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0274",
-      "suite": "stress",
+      "id": "suite_003-0274",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22537401,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0275",
-      "suite": "stress",
+      "id": "suite_003-0275",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22538410,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0276",
-      "suite": "stress",
+      "id": "suite_003-0276",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22539419,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0277",
-      "suite": "stress",
+      "id": "suite_003-0277",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22540428,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0278",
-      "suite": "stress",
+      "id": "suite_003-0278",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22541437,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0279",
-      "suite": "stress",
+      "id": "suite_003-0279",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22542446,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0280",
-      "suite": "stress",
+      "id": "suite_003-0280",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22543455,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0281",
-      "suite": "stress",
+      "id": "suite_003-0281",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22544464,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0282",
-      "suite": "stress",
+      "id": "suite_003-0282",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22545473,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0283",
-      "suite": "stress",
+      "id": "suite_003-0283",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22546482,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0284",
-      "suite": "stress",
+      "id": "suite_003-0284",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22547491,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0285",
-      "suite": "stress",
+      "id": "suite_003-0285",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22548500,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0286",
-      "suite": "stress",
+      "id": "suite_003-0286",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22549509,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0287",
-      "suite": "stress",
+      "id": "suite_003-0287",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22550518,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0288",
-      "suite": "stress",
+      "id": "suite_003-0288",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22551527,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0289",
-      "suite": "stress",
+      "id": "suite_003-0289",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22552536,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0290",
-      "suite": "stress",
+      "id": "suite_003-0290",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22553545,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0291",
-      "suite": "stress",
+      "id": "suite_003-0291",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22554554,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0292",
-      "suite": "stress",
+      "id": "suite_003-0292",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22555563,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0293",
-      "suite": "stress",
+      "id": "suite_003-0293",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22556572,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0294",
-      "suite": "stress",
+      "id": "suite_003-0294",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22557581,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0295",
-      "suite": "stress",
+      "id": "suite_003-0295",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22558590,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0296",
-      "suite": "stress",
+      "id": "suite_003-0296",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22559599,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0297",
-      "suite": "stress",
+      "id": "suite_003-0297",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22560608,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0298",
-      "suite": "stress",
+      "id": "suite_003-0298",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22561617,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0299",
-      "suite": "stress",
+      "id": "suite_003-0299",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22562626,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0300",
-      "suite": "stress",
+      "id": "suite_003-0300",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22563635,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0301",
-      "suite": "stress",
+      "id": "suite_003-0301",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22564644,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0302",
-      "suite": "stress",
+      "id": "suite_003-0302",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22565653,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0303",
-      "suite": "stress",
+      "id": "suite_003-0303",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22566662,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0304",
-      "suite": "stress",
+      "id": "suite_003-0304",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22567671,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0305",
-      "suite": "stress",
+      "id": "suite_003-0305",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22568680,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0306",
-      "suite": "stress",
+      "id": "suite_003-0306",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22569689,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0307",
-      "suite": "stress",
+      "id": "suite_003-0307",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22570698,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0308",
-      "suite": "stress",
+      "id": "suite_003-0308",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22571707,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0309",
-      "suite": "stress",
+      "id": "suite_003-0309",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22572716,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0310",
-      "suite": "stress",
+      "id": "suite_003-0310",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22573725,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0311",
-      "suite": "stress",
+      "id": "suite_003-0311",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22574734,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0312",
-      "suite": "stress",
+      "id": "suite_003-0312",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22575743,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0313",
-      "suite": "stress",
+      "id": "suite_003-0313",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22576752,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0314",
-      "suite": "stress",
+      "id": "suite_003-0314",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22577761,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0315",
-      "suite": "stress",
+      "id": "suite_003-0315",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22578770,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0316",
-      "suite": "stress",
+      "id": "suite_003-0316",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22579779,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0317",
-      "suite": "stress",
+      "id": "suite_003-0317",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22580788,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0318",
-      "suite": "stress",
+      "id": "suite_003-0318",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22581797,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0319",
-      "suite": "stress",
+      "id": "suite_003-0319",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22582806,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0320",
-      "suite": "stress",
+      "id": "suite_003-0320",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22583815,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0321",
-      "suite": "stress",
+      "id": "suite_003-0321",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22584824,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0322",
-      "suite": "stress",
+      "id": "suite_003-0322",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22585833,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0323",
-      "suite": "stress",
+      "id": "suite_003-0323",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22586842,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0324",
-      "suite": "stress",
+      "id": "suite_003-0324",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22587851,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0325",
-      "suite": "stress",
+      "id": "suite_003-0325",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22588860,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0326",
-      "suite": "stress",
+      "id": "suite_003-0326",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22589869,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0327",
-      "suite": "stress",
+      "id": "suite_003-0327",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22590878,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0328",
-      "suite": "stress",
+      "id": "suite_003-0328",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22591887,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0329",
-      "suite": "stress",
+      "id": "suite_003-0329",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22592896,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0330",
-      "suite": "stress",
+      "id": "suite_003-0330",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22593905,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0331",
-      "suite": "stress",
+      "id": "suite_003-0331",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22594914,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0332",
-      "suite": "stress",
+      "id": "suite_003-0332",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22595923,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0333",
-      "suite": "stress",
+      "id": "suite_003-0333",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22596932,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0334",
-      "suite": "stress",
+      "id": "suite_003-0334",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22597941,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0335",
-      "suite": "stress",
+      "id": "suite_003-0335",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22598950,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0336",
-      "suite": "stress",
+      "id": "suite_003-0336",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22599959,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0337",
-      "suite": "stress",
+      "id": "suite_003-0337",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22600968,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0338",
-      "suite": "stress",
+      "id": "suite_003-0338",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22601977,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0339",
-      "suite": "stress",
+      "id": "suite_003-0339",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22602986,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0340",
-      "suite": "stress",
+      "id": "suite_003-0340",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22603995,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0341",
-      "suite": "stress",
+      "id": "suite_003-0341",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22605004,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0342",
-      "suite": "stress",
+      "id": "suite_003-0342",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22606013,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0343",
-      "suite": "stress",
+      "id": "suite_003-0343",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22607022,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0344",
-      "suite": "stress",
+      "id": "suite_003-0344",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22608031,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0345",
-      "suite": "stress",
+      "id": "suite_003-0345",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22609040,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0346",
-      "suite": "stress",
+      "id": "suite_003-0346",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22610049,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0347",
-      "suite": "stress",
+      "id": "suite_003-0347",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22611058,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0348",
-      "suite": "stress",
+      "id": "suite_003-0348",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22612067,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0349",
-      "suite": "stress",
+      "id": "suite_003-0349",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22613076,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0350",
-      "suite": "stress",
+      "id": "suite_003-0350",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22614085,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0351",
-      "suite": "stress",
+      "id": "suite_003-0351",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22615094,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0352",
-      "suite": "stress",
+      "id": "suite_003-0352",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22616103,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0353",
-      "suite": "stress",
+      "id": "suite_003-0353",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22617112,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0354",
-      "suite": "stress",
+      "id": "suite_003-0354",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22618121,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0355",
-      "suite": "stress",
+      "id": "suite_003-0355",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22619130,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0356",
-      "suite": "stress",
+      "id": "suite_003-0356",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22620139,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0357",
-      "suite": "stress",
+      "id": "suite_003-0357",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22621148,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0358",
-      "suite": "stress",
+      "id": "suite_003-0358",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22622157,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0359",
-      "suite": "stress",
+      "id": "suite_003-0359",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22623166,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0360",
-      "suite": "stress",
+      "id": "suite_003-0360",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22624175,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0361",
-      "suite": "stress",
+      "id": "suite_003-0361",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22625184,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0362",
-      "suite": "stress",
+      "id": "suite_003-0362",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22626193,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0363",
-      "suite": "stress",
+      "id": "suite_003-0363",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22627202,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0364",
-      "suite": "stress",
+      "id": "suite_003-0364",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22628211,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0365",
-      "suite": "stress",
+      "id": "suite_003-0365",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22629220,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0366",
-      "suite": "stress",
+      "id": "suite_003-0366",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22630229,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0367",
-      "suite": "stress",
+      "id": "suite_003-0367",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22631238,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0368",
-      "suite": "stress",
+      "id": "suite_003-0368",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22632247,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0369",
-      "suite": "stress",
+      "id": "suite_003-0369",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22633256,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0370",
-      "suite": "stress",
+      "id": "suite_003-0370",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22634265,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0371",
-      "suite": "stress",
+      "id": "suite_003-0371",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22635274,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0372",
-      "suite": "stress",
+      "id": "suite_003-0372",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22636283,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0373",
-      "suite": "stress",
+      "id": "suite_003-0373",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22637292,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0374",
-      "suite": "stress",
+      "id": "suite_003-0374",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22638301,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0375",
-      "suite": "stress",
+      "id": "suite_003-0375",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22639310,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0376",
-      "suite": "stress",
+      "id": "suite_003-0376",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22640319,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0377",
-      "suite": "stress",
+      "id": "suite_003-0377",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22641328,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0378",
-      "suite": "stress",
+      "id": "suite_003-0378",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22642337,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0379",
-      "suite": "stress",
+      "id": "suite_003-0379",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22643346,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0380",
-      "suite": "stress",
+      "id": "suite_003-0380",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22644355,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0381",
-      "suite": "stress",
+      "id": "suite_003-0381",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22645364,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0382",
-      "suite": "stress",
+      "id": "suite_003-0382",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22646373,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0383",
-      "suite": "stress",
+      "id": "suite_003-0383",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22647382,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0384",
-      "suite": "stress",
+      "id": "suite_003-0384",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22648391,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0385",
-      "suite": "stress",
+      "id": "suite_003-0385",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22649400,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0386",
-      "suite": "stress",
+      "id": "suite_003-0386",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22650409,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0387",
-      "suite": "stress",
+      "id": "suite_003-0387",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22651418,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0388",
-      "suite": "stress",
+      "id": "suite_003-0388",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22652427,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0389",
-      "suite": "stress",
+      "id": "suite_003-0389",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22653436,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0390",
-      "suite": "stress",
+      "id": "suite_003-0390",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22654445,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0391",
-      "suite": "stress",
+      "id": "suite_003-0391",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22655454,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0392",
-      "suite": "stress",
+      "id": "suite_003-0392",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22656463,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0393",
-      "suite": "stress",
+      "id": "suite_003-0393",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22657472,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0394",
-      "suite": "stress",
+      "id": "suite_003-0394",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22658481,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0395",
-      "suite": "stress",
+      "id": "suite_003-0395",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22659490,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0396",
-      "suite": "stress",
+      "id": "suite_003-0396",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22660499,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0397",
-      "suite": "stress",
+      "id": "suite_003-0397",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22661508,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0398",
-      "suite": "stress",
+      "id": "suite_003-0398",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22662517,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0399",
-      "suite": "stress",
+      "id": "suite_003-0399",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22663526,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0400",
-      "suite": "stress",
+      "id": "suite_003-0400",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22664535,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0401",
-      "suite": "stress",
+      "id": "suite_003-0401",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22665544,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0402",
-      "suite": "stress",
+      "id": "suite_003-0402",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22666553,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0403",
-      "suite": "stress",
+      "id": "suite_003-0403",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22667562,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0404",
-      "suite": "stress",
+      "id": "suite_003-0404",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22668571,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0405",
-      "suite": "stress",
+      "id": "suite_003-0405",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22669580,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0406",
-      "suite": "stress",
+      "id": "suite_003-0406",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22670589,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0407",
-      "suite": "stress",
+      "id": "suite_003-0407",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22671598,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0408",
-      "suite": "stress",
+      "id": "suite_003-0408",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22672607,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0409",
-      "suite": "stress",
+      "id": "suite_003-0409",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22673616,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0410",
-      "suite": "stress",
+      "id": "suite_003-0410",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22674625,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0411",
-      "suite": "stress",
+      "id": "suite_003-0411",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22675634,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0412",
-      "suite": "stress",
+      "id": "suite_003-0412",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22676643,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0413",
-      "suite": "stress",
+      "id": "suite_003-0413",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22677652,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0414",
-      "suite": "stress",
+      "id": "suite_003-0414",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22678661,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0415",
-      "suite": "stress",
+      "id": "suite_003-0415",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22679670,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0416",
-      "suite": "stress",
+      "id": "suite_003-0416",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22680679,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0417",
-      "suite": "stress",
+      "id": "suite_003-0417",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22681688,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0418",
-      "suite": "stress",
+      "id": "suite_003-0418",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22682697,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0419",
-      "suite": "stress",
+      "id": "suite_003-0419",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22683706,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0420",
-      "suite": "stress",
+      "id": "suite_003-0420",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22684715,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0421",
-      "suite": "stress",
+      "id": "suite_003-0421",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22685724,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0422",
-      "suite": "stress",
+      "id": "suite_003-0422",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22686733,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0423",
-      "suite": "stress",
+      "id": "suite_003-0423",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22687742,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0424",
-      "suite": "stress",
+      "id": "suite_003-0424",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22688751,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0425",
-      "suite": "stress",
+      "id": "suite_003-0425",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22689760,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0426",
-      "suite": "stress",
+      "id": "suite_003-0426",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22690769,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0427",
-      "suite": "stress",
+      "id": "suite_003-0427",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22691778,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0428",
-      "suite": "stress",
+      "id": "suite_003-0428",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22692787,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0429",
-      "suite": "stress",
+      "id": "suite_003-0429",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22693796,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0430",
-      "suite": "stress",
+      "id": "suite_003-0430",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22694805,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0431",
-      "suite": "stress",
+      "id": "suite_003-0431",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22695814,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0432",
-      "suite": "stress",
+      "id": "suite_003-0432",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22696823,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0433",
-      "suite": "stress",
+      "id": "suite_003-0433",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22697832,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0434",
-      "suite": "stress",
+      "id": "suite_003-0434",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22698841,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0435",
-      "suite": "stress",
+      "id": "suite_003-0435",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22699850,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0436",
-      "suite": "stress",
+      "id": "suite_003-0436",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22700859,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0437",
-      "suite": "stress",
+      "id": "suite_003-0437",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22701868,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0438",
-      "suite": "stress",
+      "id": "suite_003-0438",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22702877,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0439",
-      "suite": "stress",
+      "id": "suite_003-0439",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22703886,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0440",
-      "suite": "stress",
+      "id": "suite_003-0440",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22704895,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0441",
-      "suite": "stress",
+      "id": "suite_003-0441",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22705904,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0442",
-      "suite": "stress",
+      "id": "suite_003-0442",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22706913,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0443",
-      "suite": "stress",
+      "id": "suite_003-0443",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22707922,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0444",
-      "suite": "stress",
+      "id": "suite_003-0444",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22708931,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0445",
-      "suite": "stress",
+      "id": "suite_003-0445",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22709940,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0446",
-      "suite": "stress",
+      "id": "suite_003-0446",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22710949,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0447",
-      "suite": "stress",
+      "id": "suite_003-0447",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22711958,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0448",
-      "suite": "stress",
+      "id": "suite_003-0448",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22712967,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0449",
-      "suite": "stress",
+      "id": "suite_003-0449",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22713976,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0450",
-      "suite": "stress",
+      "id": "suite_003-0450",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22714985,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0451",
-      "suite": "stress",
+      "id": "suite_003-0451",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22715994,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0452",
-      "suite": "stress",
+      "id": "suite_003-0452",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22717003,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0453",
-      "suite": "stress",
+      "id": "suite_003-0453",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22718012,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0454",
-      "suite": "stress",
+      "id": "suite_003-0454",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22719021,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0455",
-      "suite": "stress",
+      "id": "suite_003-0455",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22720030,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0456",
-      "suite": "stress",
+      "id": "suite_003-0456",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22721039,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0457",
-      "suite": "stress",
+      "id": "suite_003-0457",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22722048,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0458",
-      "suite": "stress",
+      "id": "suite_003-0458",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22723057,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0459",
-      "suite": "stress",
+      "id": "suite_003-0459",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22724066,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0460",
-      "suite": "stress",
+      "id": "suite_003-0460",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22725075,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0461",
-      "suite": "stress",
+      "id": "suite_003-0461",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22726084,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0462",
-      "suite": "stress",
+      "id": "suite_003-0462",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22727093,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0463",
-      "suite": "stress",
+      "id": "suite_003-0463",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22728102,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0464",
-      "suite": "stress",
+      "id": "suite_003-0464",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22729111,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0465",
-      "suite": "stress",
+      "id": "suite_003-0465",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22730120,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0466",
-      "suite": "stress",
+      "id": "suite_003-0466",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22731129,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0467",
-      "suite": "stress",
+      "id": "suite_003-0467",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22732138,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0468",
-      "suite": "stress",
+      "id": "suite_003-0468",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22733147,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0469",
-      "suite": "stress",
+      "id": "suite_003-0469",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22734156,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0470",
-      "suite": "stress",
+      "id": "suite_003-0470",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22735165,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0471",
-      "suite": "stress",
+      "id": "suite_003-0471",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22736174,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0472",
-      "suite": "stress",
+      "id": "suite_003-0472",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22737183,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0473",
-      "suite": "stress",
+      "id": "suite_003-0473",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22738192,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0474",
-      "suite": "stress",
+      "id": "suite_003-0474",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22739201,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0475",
-      "suite": "stress",
+      "id": "suite_003-0475",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22740210,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0476",
-      "suite": "stress",
+      "id": "suite_003-0476",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22741219,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0477",
-      "suite": "stress",
+      "id": "suite_003-0477",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22742228,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0478",
-      "suite": "stress",
+      "id": "suite_003-0478",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22743237,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0479",
-      "suite": "stress",
+      "id": "suite_003-0479",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22744246,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0480",
-      "suite": "stress",
+      "id": "suite_003-0480",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22745255,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0481",
-      "suite": "stress",
+      "id": "suite_003-0481",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22746264,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0482",
-      "suite": "stress",
+      "id": "suite_003-0482",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22747273,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0483",
-      "suite": "stress",
+      "id": "suite_003-0483",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22748282,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0484",
-      "suite": "stress",
+      "id": "suite_003-0484",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22749291,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0485",
-      "suite": "stress",
+      "id": "suite_003-0485",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22750300,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0486",
-      "suite": "stress",
+      "id": "suite_003-0486",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22751309,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0487",
-      "suite": "stress",
+      "id": "suite_003-0487",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22752318,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0488",
-      "suite": "stress",
+      "id": "suite_003-0488",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22753327,
       "discount_factor": 0.95
     },
     {
-      "id": "stress-0489",
-      "suite": "stress",
+      "id": "suite_003-0489",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22754336,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0490",
-      "suite": "stress",
+      "id": "suite_003-0490",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22755345,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0491",
-      "suite": "stress",
+      "id": "suite_003-0491",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22756354,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0492",
-      "suite": "stress",
+      "id": "suite_003-0492",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22757363,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0493",
-      "suite": "stress",
+      "id": "suite_003-0493",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22758372,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0494",
-      "suite": "stress",
+      "id": "suite_003-0494",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22759381,
       "discount_factor": 0.5
     },
     {
-      "id": "stress-0495",
-      "suite": "stress",
+      "id": "suite_003-0495",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22760390,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0496",
-      "suite": "stress",
+      "id": "suite_003-0496",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22761399,
       "discount_factor": 0.999
     },
     {
-      "id": "stress-0497",
-      "suite": "stress",
+      "id": "suite_003-0497",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22762408,
       "discount_factor": 0.8
     },
     {
-      "id": "stress-0498",
-      "suite": "stress",
+      "id": "suite_003-0498",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22763417,
       "discount_factor": 0.99
     },
     {
-      "id": "stress-0499",
-      "suite": "stress",
+      "id": "suite_003-0499",
+      "suite": "suite_003",
       "part": "b",
       "seed": 22764426,
       "discount_factor": 0.5
