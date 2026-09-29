@@ -1,0 +1,4016 @@
+{
+  "version": 1,
+  "part": "b",
+  "suite": "stress",
+  "seed": 22260935,
+  "count": 500,
+  "settings": {
+    "train_seconds": 0.05,
+    "eval_runs": 3,
+    "tolerance": 1e-05
+  },
+  "cases": [
+    {
+      "id": "stress-0000",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22260935,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0001",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22261944,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0002",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22262953,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0003",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22263962,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0004",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22264971,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0005",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22265980,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0006",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22266989,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0007",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22267998,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0008",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22269007,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0009",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22270016,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0010",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22271025,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0011",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22272034,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0012",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22273043,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0013",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22274052,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0014",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22275061,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0015",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22276070,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0016",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22277079,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0017",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22278088,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0018",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22279097,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0019",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22280106,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0020",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22281115,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0021",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22282124,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0022",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22283133,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0023",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22284142,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0024",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22285151,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0025",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22286160,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0026",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22287169,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0027",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22288178,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0028",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22289187,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0029",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22290196,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0030",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22291205,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0031",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22292214,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0032",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22293223,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0033",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22294232,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0034",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22295241,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0035",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22296250,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0036",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22297259,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0037",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22298268,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0038",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22299277,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0039",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22300286,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0040",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22301295,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0041",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22302304,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0042",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22303313,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0043",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22304322,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0044",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22305331,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0045",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22306340,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0046",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22307349,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0047",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22308358,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0048",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22309367,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0049",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22310376,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0050",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22311385,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0051",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22312394,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0052",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22313403,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0053",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22314412,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0054",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22315421,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0055",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22316430,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0056",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22317439,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0057",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22318448,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0058",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22319457,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0059",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22320466,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0060",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22321475,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0061",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22322484,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0062",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22323493,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0063",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22324502,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0064",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22325511,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0065",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22326520,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0066",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22327529,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0067",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22328538,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0068",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22329547,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0069",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22330556,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0070",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22331565,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0071",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22332574,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0072",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22333583,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0073",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22334592,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0074",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22335601,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0075",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22336610,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0076",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22337619,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0077",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22338628,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0078",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22339637,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0079",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22340646,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0080",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22341655,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0081",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22342664,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0082",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22343673,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0083",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22344682,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0084",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22345691,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0085",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22346700,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0086",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22347709,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0087",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22348718,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0088",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22349727,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0089",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22350736,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0090",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22351745,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0091",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22352754,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0092",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22353763,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0093",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22354772,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0094",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22355781,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0095",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22356790,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0096",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22357799,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0097",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22358808,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0098",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22359817,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0099",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22360826,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0100",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22361835,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0101",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22362844,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0102",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22363853,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0103",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22364862,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0104",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22365871,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0105",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22366880,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0106",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22367889,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0107",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22368898,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0108",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22369907,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0109",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22370916,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0110",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22371925,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0111",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22372934,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0112",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22373943,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0113",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22374952,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0114",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22375961,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0115",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22376970,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0116",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22377979,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0117",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22378988,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0118",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22379997,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0119",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22381006,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0120",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22382015,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0121",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22383024,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0122",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22384033,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0123",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22385042,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0124",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22386051,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0125",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22387060,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0126",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22388069,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0127",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22389078,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0128",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22390087,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0129",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22391096,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0130",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22392105,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0131",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22393114,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0132",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22394123,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0133",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22395132,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0134",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22396141,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0135",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22397150,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0136",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22398159,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0137",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22399168,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0138",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22400177,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0139",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22401186,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0140",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22402195,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0141",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22403204,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0142",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22404213,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0143",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22405222,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0144",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22406231,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0145",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22407240,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0146",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22408249,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0147",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22409258,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0148",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22410267,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0149",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22411276,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0150",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22412285,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0151",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22413294,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0152",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22414303,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0153",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22415312,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0154",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22416321,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0155",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22417330,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0156",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22418339,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0157",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22419348,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0158",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22420357,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0159",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22421366,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0160",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22422375,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0161",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22423384,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0162",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22424393,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0163",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22425402,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0164",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22426411,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0165",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22427420,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0166",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22428429,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0167",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22429438,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0168",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22430447,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0169",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22431456,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0170",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22432465,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0171",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22433474,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0172",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22434483,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0173",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22435492,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0174",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22436501,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0175",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22437510,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0176",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22438519,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0177",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22439528,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0178",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22440537,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0179",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22441546,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0180",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22442555,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0181",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22443564,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0182",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22444573,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0183",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22445582,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0184",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22446591,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0185",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22447600,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0186",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22448609,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0187",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22449618,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0188",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22450627,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0189",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22451636,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0190",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22452645,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0191",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22453654,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0192",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22454663,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0193",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22455672,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0194",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22456681,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0195",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22457690,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0196",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22458699,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0197",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22459708,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0198",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22460717,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0199",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22461726,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0200",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22462735,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0201",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22463744,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0202",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22464753,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0203",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22465762,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0204",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22466771,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0205",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22467780,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0206",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22468789,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0207",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22469798,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0208",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22470807,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0209",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22471816,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0210",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22472825,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0211",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22473834,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0212",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22474843,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0213",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22475852,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0214",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22476861,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0215",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22477870,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0216",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22478879,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0217",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22479888,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0218",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22480897,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0219",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22481906,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0220",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22482915,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0221",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22483924,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0222",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22484933,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0223",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22485942,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0224",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22486951,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0225",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22487960,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0226",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22488969,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0227",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22489978,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0228",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22490987,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0229",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22491996,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0230",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22493005,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0231",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22494014,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0232",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22495023,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0233",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22496032,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0234",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22497041,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0235",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22498050,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0236",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22499059,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0237",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22500068,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0238",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22501077,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0239",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22502086,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0240",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22503095,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0241",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22504104,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0242",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22505113,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0243",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22506122,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0244",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22507131,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0245",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22508140,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0246",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22509149,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0247",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22510158,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0248",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22511167,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0249",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22512176,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0250",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22513185,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0251",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22514194,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0252",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22515203,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0253",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22516212,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0254",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22517221,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0255",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22518230,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0256",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22519239,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0257",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22520248,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0258",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22521257,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0259",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22522266,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0260",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22523275,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0261",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22524284,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0262",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22525293,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0263",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22526302,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0264",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22527311,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0265",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22528320,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0266",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22529329,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0267",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22530338,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0268",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22531347,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0269",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22532356,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0270",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22533365,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0271",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22534374,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0272",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22535383,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0273",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22536392,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0274",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22537401,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0275",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22538410,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0276",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22539419,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0277",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22540428,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0278",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22541437,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0279",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22542446,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0280",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22543455,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0281",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22544464,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0282",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22545473,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0283",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22546482,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0284",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22547491,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0285",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22548500,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0286",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22549509,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0287",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22550518,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0288",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22551527,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0289",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22552536,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0290",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22553545,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0291",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22554554,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0292",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22555563,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0293",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22556572,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0294",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22557581,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0295",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22558590,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0296",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22559599,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0297",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22560608,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0298",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22561617,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0299",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22562626,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0300",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22563635,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0301",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22564644,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0302",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22565653,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0303",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22566662,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0304",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22567671,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0305",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22568680,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0306",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22569689,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0307",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22570698,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0308",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22571707,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0309",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22572716,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0310",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22573725,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0311",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22574734,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0312",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22575743,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0313",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22576752,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0314",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22577761,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0315",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22578770,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0316",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22579779,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0317",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22580788,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0318",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22581797,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0319",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22582806,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0320",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22583815,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0321",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22584824,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0322",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22585833,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0323",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22586842,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0324",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22587851,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0325",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22588860,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0326",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22589869,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0327",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22590878,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0328",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22591887,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0329",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22592896,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0330",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22593905,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0331",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22594914,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0332",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22595923,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0333",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22596932,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0334",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22597941,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0335",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22598950,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0336",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22599959,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0337",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22600968,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0338",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22601977,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0339",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22602986,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0340",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22603995,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0341",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22605004,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0342",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22606013,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0343",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22607022,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0344",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22608031,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0345",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22609040,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0346",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22610049,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0347",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22611058,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0348",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22612067,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0349",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22613076,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0350",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22614085,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0351",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22615094,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0352",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22616103,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0353",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22617112,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0354",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22618121,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0355",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22619130,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0356",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22620139,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0357",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22621148,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0358",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22622157,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0359",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22623166,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0360",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22624175,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0361",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22625184,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0362",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22626193,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0363",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22627202,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0364",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22628211,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0365",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22629220,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0366",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22630229,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0367",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22631238,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0368",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22632247,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0369",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22633256,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0370",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22634265,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0371",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22635274,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0372",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22636283,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0373",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22637292,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0374",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22638301,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0375",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22639310,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0376",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22640319,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0377",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22641328,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0378",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22642337,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0379",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22643346,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0380",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22644355,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0381",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22645364,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0382",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22646373,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0383",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22647382,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0384",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22648391,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0385",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22649400,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0386",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22650409,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0387",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22651418,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0388",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22652427,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0389",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22653436,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0390",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22654445,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0391",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22655454,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0392",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22656463,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0393",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22657472,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0394",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22658481,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0395",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22659490,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0396",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22660499,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0397",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22661508,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0398",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22662517,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0399",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22663526,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0400",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22664535,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0401",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22665544,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0402",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22666553,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0403",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22667562,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0404",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22668571,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0405",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22669580,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0406",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22670589,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0407",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22671598,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0408",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22672607,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0409",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22673616,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0410",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22674625,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0411",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22675634,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0412",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22676643,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0413",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22677652,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0414",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22678661,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0415",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22679670,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0416",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22680679,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0417",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22681688,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0418",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22682697,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0419",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22683706,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0420",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22684715,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0421",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22685724,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0422",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22686733,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0423",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22687742,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0424",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22688751,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0425",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22689760,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0426",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22690769,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0427",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22691778,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0428",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22692787,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0429",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22693796,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0430",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22694805,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0431",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22695814,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0432",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22696823,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0433",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22697832,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0434",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22698841,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0435",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22699850,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0436",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22700859,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0437",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22701868,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0438",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22702877,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0439",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22703886,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0440",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22704895,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0441",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22705904,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0442",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22706913,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0443",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22707922,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0444",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22708931,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0445",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22709940,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0446",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22710949,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0447",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22711958,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0448",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22712967,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0449",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22713976,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0450",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22714985,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0451",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22715994,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0452",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22717003,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0453",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22718012,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0454",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22719021,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0455",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22720030,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0456",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22721039,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0457",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22722048,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0458",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22723057,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0459",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22724066,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0460",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22725075,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0461",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22726084,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0462",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22727093,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0463",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22728102,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0464",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22729111,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0465",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22730120,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0466",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22731129,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0467",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22732138,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0468",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22733147,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0469",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22734156,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0470",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22735165,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0471",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22736174,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0472",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22737183,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0473",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22738192,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0474",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22739201,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0475",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22740210,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0476",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22741219,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0477",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22742228,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0478",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22743237,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0479",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22744246,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0480",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22745255,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0481",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22746264,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0482",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22747273,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0483",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22748282,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0484",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22749291,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0485",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22750300,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0486",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22751309,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0487",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22752318,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0488",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22753327,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "stress-0489",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22754336,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0490",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22755345,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0491",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22756354,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0492",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22757363,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0493",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22758372,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0494",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22759381,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "stress-0495",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22760390,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0496",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22761399,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "stress-0497",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22762408,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "stress-0498",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22763417,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "stress-0499",
+      "suite": "stress",
+      "part": "b",
+      "seed": 22764426,
+      "discount_factor": 0.5
+    }
+  ],
+  "scores": [
+    -1.9120836230767633,
+    -2.910690855666252,
+    -0.018040102335458098,
+    -0.7798043995607871,
+    -1.09182243988968,
+    -1.939307947131361,
+    -2.7520371547584297,
+    -3.7447297949263394,
+    -0.11692308776873277,
+    -0.01863983845018617,
+    -4.022799780987612,
+    -0.023028990173205366,
+    -1.8141934831593796,
+    -2.51411405071724,
+    -1.6349336903673983,
+    0.2914350640641911,
+    -0.6584287615265177,
+    -1.8260060259771886,
+    -2.7405263927072423,
+    -0.22482848548455336,
+    -3.9064070956186305,
+    -3.306165034164476,
+    0.2285657853653846,
+    0.20997001647949218,
+    -3.816250717655965,
+    -2.177489712790267,
+    -3.2551157165806437,
+    -3.5921400020684637,
+    -2.79955566769028,
+    -0.23681722125265592,
+    -1.7727112344207712,
+    -0.3124086398300338,
+    -0.11404172878879144,
+    -2.0218655076961243,
+    0.07630860853694321,
+    -0.811260546608792,
+    -2.5564578147489416,
+    -3.3012207330114633,
+    -1.2328511043861938,
+    0.1562564284629778,
+    -2.301944375587721,
+    0.4933307199436447,
+    0.18884708722432453,
+    -2.2398633853003442,
+    0.1973242186483306,
+    -3.684337088312818,
+    -2.552112456301191,
+    0.20329421875319287,
+    -2.8090543454030796,
+    0.41687900800736477,
+    0.163968022664388,
+    -0.8374639990322823,
+    -1.5553091585882812,
+    -3.014079434344826,
+    -1.8212716645299676,
+    0.1797601253290971,
+    0.17130086181685325,
+    0.1638275145976028,
+    -0.03877163602711675,
+    0.37185475280086583,
+    -0.5714665273842168,
+    -2.7101179697521833,
+    -2.662861235803704,
+    -2.974229827468958,
+    0.1965485636393229,
+    -3.294409118140765,
+    0.469524442158819,
+    -2.0740398883906366,
+    0.19634739955266314,
+    0.189983329474926,
+    -2.0836841620867648,
+    0.19817042032877605,
+    -2.604222227866869,
+    0.42122418729394034,
+    0.15540250778198242,
+    -3.7872190186986394,
+    -0.03191105884144715,
+    -2.8937731451295376,
+    -1.7602553334063413,
+    -0.17425373044791584,
+    -3.35515423395725,
+    -2.354392128992725,
+    -1.5609178809147657,
+    -4.098951975977999,
+    0.19495918909708657,
+    -1.891578123806455,
+    0.1415576171875,
+    -0.5356356471466669,
+    -3.576598547083828,
+    0.17997667948404947,
+    -2.9226950078392755,
+    -0.2745437618554581,
+    -3.322318591163048,
+    -2.7027023454666548,
+    -2.2711647198928553,
+    -0.1194282901214514,
+    -2.2473173271038385,
+    -2.925031856499775,
+    0.18351679484049477,
+    -2.33694929909206,
+    0.12311833699544271,
+    0.1776483662923177,
+    -1.6233320167993288,
+    -3.8274810876634997,
+    -0.5066023211791444,
+    -2.1685522209286563,
+    -2.9499954750446737,
+    -0.03664929600940364,
+    0.18611979166666667,
+    0.3865641444132091,
+    -0.30727317393841663,
+    -0.011914463006646225,
+    -0.9386643826329899,
+    -2.287562275880805,
+    -1.3588554323567064,
+    0.17520167032877607,
+    -0.24195560179336265,
+    0.17765482107798258,
+    0.14359373698631922,
+    -2.373896118992725,
+    0.16769500732421874,
+    -2.8439728131271718,
+    -2.9444103051412314,
+    0.18604487385890725,
+    -2.7991872373593814,
+    -3.011176708939013,
+    -2.6378242276931068,
+    -1.469574606579574,
+    0.1588533337402623,
+    -0.7934438467982995,
+    0.44690300467313127,
+    0.19632418314615885,
+    0.17905855814615887,
+    -2.5201744471886474,
+    0.19249271233876544,
+    -2.5157089565192496,
+    0.24863753787317902,
+    -0.22117672737415986,
+    -1.405395710002728,
+    -0.5107645838843664,
+    -2.81153377352604,
+    -0.36767565131773033,
+    0.07595603449188619,
+    0.237107719113509,
+    0.19977620442708333,
+    0.17857421793664496,
+    -2.6628612358037045,
+    -3.825479012622834,
+    -0.026710543851520125,
+    -2.862850382505671,
+    -3.293924050348249,
+    -2.3978602712023593,
+    0.1904638671875,
+    0.204972931543986,
+    -2.747196666287156,
+    -0.12421045579830618,
+    -0.36311260564869197,
+    -2.9572136054516083,
+    -3.264793503757824,
+    -2.896181099493432,
+    -2.2994931910865994,
+    -2.576255836562507,
+    0.25840778941784615,
+    0.18749832692866522,
+    -1.3223997756937893,
+    -1.2775958762505955,
+    -2.410763983883426,
+    -1.3783554323567067,
+    -2.994019044302469,
+    -1.2140842279727742,
+    0.1569203943014145,
+    -0.012995940406491028,
+    -2.507983349750291,
+    -1.621819740344107,
+    -2.038705367736339,
+    -0.747622736141118,
+    -0.6202763449503937,
+    -2.4728991189927254,
+    -1.2582974917364944,
+    -3.0740506207714358,
+    0.035892762806736145,
+    0.3832199579527886,
+    0.5024297218233268,
+    0.46666397374661783,
+    -2.226497047165232,
+    -0.9412948261646608,
+    0.5128313468433983,
+    -3.3746652711125105,
+    0.18618920008341475,
+    -0.3253864261047655,
+    -0.5007486740661542,
+    0.14697855631510418,
+    -2.2514487617820773,
+    0.16891805013020833,
+    -2.7421371547584297,
+    -2.8909413249624656,
+    0.20976013020922737,
+    -1.5075996065795743,
+    -1.157048169687203,
+    0.03157886953012331,
+    -0.5213575699541232,
+    -1.554374594349168,
+    0.16767501831054688,
+    -0.3536126056486919,
+    -2.31661023362568,
+    -0.5072637094410196,
+    0.1936167397055154,
+    -3.5062142816498785,
+    -1.6368751914763606,
+    -1.7232150557603203,
+    0.2625170854676386,
+    -3.4350279313936496,
+    0.13278340657552082,
+    -1.4338957100027276,
+    0.1491796875,
+    0.1826816811117654,
+    -1.7039443377461392,
+    -0.11330778960169981,
+    -1.3018592739740866,
+    0.5009080390876249,
+    0.167704168955485,
+    -0.4745997206036103,
+    -0.4153860276526559,
+    -2.7263737084047257,
+    0.28838410567709727,
+    0.15224473469840216,
+    -3.124969741719666,
+    0.1503900146484375,
+    -0.8223426731003977,
+    -2.0652185966656558,
+    -2.3078159279885715,
+    -2.308401025396684,
+    -2.9321924547854397,
+    0.17243003845214844,
+    0.1776916758219401,
+    0.5001373065201422,
+    -1.1331684172741918,
+    -1.2238937263363254,
+    -3.291864539398938,
+    0.01275726389357216,
+    -1.7055467722339428,
+    -1.7155467722339426,
+    -2.228815312407971,
+    0.5077998540818872,
+    0.46288473564693106,
+    0.204999576852036,
+    -3.3534982384748546,
+    0.5070325661989076,
+    -3.209794193900644,
+    0.4150435486460622,
+    0.15247395833333333,
+    0.16738428751627601,
+    -2.3172750256920813,
+    -1.509934123410255,
+    -1.9231303372752209,
+    0.17244503021240232,
+    -1.035085327255253,
+    0.1043749479452769,
+    -2.2424048984594918,
+    0.14629716015491748,
+    0.19494503021240236,
+    0.026872292767338723,
+    -3.5996991009433725,
+    -2.6557711352802715,
+    0.3588107159295047,
+    -3.128606894593959,
+    -3.011408044087426,
+    -2.2245387687086855,
+    0.18201792399088537,
+    -2.8858783689230685,
+    -0.591348790951765,
+    -0.6407745514893951,
+    -2.8001394388893224,
+    0.1690558369954427,
+    0.20499655137459438,
+    -0.7190161612324865,
+    -2.90190422593561,
+    -2.5882370171174798,
+    -0.04347775334508789,
+    -4.167776298577169,
+    -2.7022234147432935,
+    -2.5561056045923025,
+    0.10078002929687502,
+    -2.5183355553898603,
+    -0.8219415996078165,
+    -2.660761467923571,
+    0.16519500732421874,
+    0.18973347976687363,
+    0.16268834431966145,
+    -2.8290443454030796,
+    -3.9511960241311215,
+    -3.014029827468958,
+    -0.24783824844082658,
+    -0.2921370425510332,
+    -2.6517431524543693,
+    -3.334355685451694,
+    0.4983923860865492,
+    -2.0721186375425753,
+    0.17929520924886067,
+    -1.3426438859046141,
+    -0.2724399394133335,
+    -0.6399541312678471,
+    0.1738408406575521,
+    0.19433919270833333,
+    -3.564236463935314,
+    0.1626950073178644,
+    -4.001711998017609,
+    -2.8393720574232337,
+    0.20147527058919268,
+    0.18383917490641277,
+    -0.3184649159864694,
+    -0.5964922623556773,
+    0.18746668497721353,
+    -3.086345664171489,
+    0.4665800353162182,
+    -0.26613704255103315,
+    -2.861864285863939,
+    0.19497001647949216,
+    -3.258047729679067,
+    -1.1492371180413101,
+    -2.1522296094852993,
+    0.48373730652014224,
+    -0.09929157083191581,
+    -0.8708970330064448,
+    -2.4167503195821287,
+    0.20019256591796875,
+    -2.0827126730755223,
+    0.12218643747340281,
+    0.21437624976135505,
+    -2.8180404693970917,
+    0.1806171162923177,
+    0.4947622127051558,
+    -1.3538275353256959,
+    -0.49161304192635136,
+    0.3709163917278766,
+    -2.2448529114384077,
+    -3.147735166828239,
+    -3.817189028698639,
+    -3.0545319973986627,
+    -2.115028145332713,
+    0.203170420328776,
+    0.20243920008341468,
+    -0.45465890808599463,
+    0.17744586308796892,
+    0.17624672571818034,
+    -2.0952394963364607,
+    -3.251913441632814,
+    -2.6290728729439032,
+    0.20996980826059977,
+    -2.72532323626166,
+    -2.9108655456544317,
+    -3.09637707997849,
+    -0.6430325400016986,
+    -1.2971213933404202,
+    -3.004622376684241,
+    0.07738678009513161,
+    -3.415419995923602,
+    0.18817354361216224,
+    -3.4386723765990586,
+    -3.467604791331181,
+    -0.36083743652212474,
+    -2.934897201081816,
+    -1.9788959360035687,
+    -3.5504208099078256,
+    0.20148026784261067,
+    0.12541645844777424,
+    -3.064961272977762,
+    0.428605855495672,
+    -0.49593432173546526,
+    -1.229344033302916,
+    -1.2158690386288027,
+    0.3067233158245568,
+    -0.28268177853148785,
+    -1.8474860939390432,
+    -2.0873213272486746,
+    0.2065851581096649,
+    -4.074868882286126,
+    -2.5582985611934954,
+    -2.4419099011914365,
+    0.17020729223887124,
+    -3.3744511542176654,
+    0.1354025077819824,
+    -2.6579318195922412,
+    -3.21245645579066,
+    0.36823083610387913,
+    -3.2705926693901985,
+    -2.313227667114871,
+    -2.870459167298192,
+    -3.449458569123438,
+    -0.9423530960814938,
+    -3.4980834217715846,
+    0.17951792399088543,
+    -2.470340515102465,
+    0.4417975306075199,
+    -0.7846220802987984,
+    -3.333324916611879,
+    -2.412150263031561,
+    0.1672285970052083,
+    0.1487109375,
+    -2.1509536560193996,
+    -4.126648556230476,
+    -1.8204707347339621,
+    0.45343306623627666,
+    -3.888846961206624,
+    0.17467529296874998,
+    -0.7435324869356693,
+    -0.9236112870309429,
+    -3.3749041020179784,
+    -2.554385478008086,
+    0.18776123046875,
+    -1.3057094937725962,
+    0.1963537500255431,
+    0.20491983572642006,
+    0.16635374372204145,
+    -0.33444549382486843,
+    -3.1267131012142273,
+    0.2619283811994231,
+    0.10909727504403437,
+    0.4501922212388234,
+    0.46400806511929177,
+    0.4609203252183627,
+    -3.7540875950159243,
+    -2.7250889275977017,
+    -1.0750083292944794,
+    -0.4001528832947132,
+    -3.9585959616362127,
+    -1.8644782212812343,
+    0.1403900146484375,
+    -2.3975283248313257,
+    -3.558871932491371,
+    -1.5275544639422336,
+    -3.415373050558879,
+    -3.6926274902054836,
+    -2.953495931786986,
+    -1.0537817936451077,
+    -1.8501273091525645,
+    -2.702074869402741,
+    0.17495835622151693,
+    0.1336266053481857,
+    0.1511949680721919,
+    -0.6752364204015647,
+    -2.799678805799663,
+    -1.88437629537903,
+    -1.537570703782091,
+    0.17880195319652556,
+    -3.3245444661728194,
+    0.5256201836203417,
+    0.1554149748881658,
+    -3.4252159253135983,
+    -0.9319951745096097,
+    -3.120474061311313,
+    -2.2018976043419216,
+    -1.4975996065795742,
+    -1.6236007473712926,
+    -1.869787325855678,
+    -3.4767178212894545,
+    0.4221698513336088,
+    -3.683863289555711,
+    -3.0896359454520717,
+    -0.2819859836672776,
+    0.18749666849374988,
+    0.16350250005722045,
+    -0.08508517813163168,
+    -3.8166938385665823,
+    -3.046450659158658,
+    -2.042637018040128,
+    -2.2620290797965157,
+    -2.3277159279885713,
+    -0.44494090020727484,
+    -3.061381357441435,
+    0.18988006590526008,
+    -3.0307404235262503,
+    -2.276513612461072,
+    -1.0958826171496696,
+    0.4084596343659099,
+    -2.4846410598819166,
+    -2.451442066657744,
+    -2.578467723413669,
+    0.1849433644604687,
+    -2.1485981770071185,
+    -3.827769851331665,
+    -2.6966126653658105,
+    -2.848902270288937,
+    -2.739917969752183,
+    -3.6204856893478614,
+    -0.14841664090836995,
+    0.172758108289084,
+    -2.039865887751573,
+    -0.8847291799200881,
+    0.15041500091552737,
+    0.19247334147473186,
+    0.13120427449544272,
+    -3.1297371185040905,
+    -2.912768452423982,
+    0.18731089274088542,
+    -2.893424169290608,
+    -2.085501220050647,
+    -0.458704529855458,
+    -1.9525173724847174,
+    0.1676783498128255
+  ]
+}

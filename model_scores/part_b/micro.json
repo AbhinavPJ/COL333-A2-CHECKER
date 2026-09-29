@@ -1,0 +1,4016 @@
+{
+  "version": 1,
+  "part": "b",
+  "suite": "micro",
+  "seed": 20260929,
+  "count": 500,
+  "settings": {
+    "train_seconds": 0.05,
+    "eval_runs": 3,
+    "tolerance": 1e-05
+  },
+  "cases": [
+    {
+      "id": "micro-0000",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20260929,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0001",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20261938,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0002",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20262947,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0003",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20263956,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0004",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20264965,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0005",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20265974,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0006",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20266983,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0007",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20267992,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0008",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20269001,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0009",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20270010,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0010",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20271019,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0011",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20272028,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0012",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20273037,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0013",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20274046,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0014",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20275055,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0015",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20276064,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0016",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20277073,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0017",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20278082,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0018",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20279091,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0019",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20280100,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0020",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20281109,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0021",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20282118,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0022",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20283127,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0023",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20284136,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0024",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20285145,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0025",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20286154,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0026",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20287163,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0027",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20288172,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0028",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20289181,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0029",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20290190,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0030",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20291199,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0031",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20292208,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0032",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20293217,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0033",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20294226,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0034",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20295235,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0035",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20296244,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0036",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20297253,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0037",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20298262,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0038",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20299271,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0039",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20300280,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0040",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20301289,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0041",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20302298,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0042",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20303307,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0043",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20304316,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0044",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20305325,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0045",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20306334,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0046",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20307343,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0047",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20308352,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0048",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20309361,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0049",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20310370,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0050",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20311379,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0051",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20312388,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0052",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20313397,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0053",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20314406,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0054",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20315415,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0055",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20316424,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0056",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20317433,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0057",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20318442,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0058",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20319451,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0059",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20320460,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0060",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20321469,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0061",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20322478,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0062",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20323487,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0063",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20324496,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0064",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20325505,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0065",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20326514,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0066",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20327523,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0067",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20328532,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0068",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20329541,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0069",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20330550,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0070",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20331559,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0071",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20332568,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0072",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20333577,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0073",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20334586,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0074",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20335595,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0075",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20336604,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0076",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20337613,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0077",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20338622,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0078",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20339631,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0079",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20340640,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0080",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20341649,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0081",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20342658,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0082",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20343667,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0083",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20344676,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0084",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20345685,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0085",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20346694,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0086",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20347703,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0087",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20348712,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0088",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20349721,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0089",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20350730,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0090",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20351739,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0091",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20352748,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0092",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20353757,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0093",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20354766,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0094",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20355775,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0095",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20356784,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0096",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20357793,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0097",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20358802,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0098",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20359811,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0099",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20360820,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0100",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20361829,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0101",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20362838,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0102",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20363847,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0103",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20364856,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0104",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20365865,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0105",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20366874,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0106",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20367883,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0107",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20368892,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0108",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20369901,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0109",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20370910,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0110",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20371919,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0111",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20372928,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0112",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20373937,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0113",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20374946,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0114",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20375955,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0115",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20376964,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0116",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20377973,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0117",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20378982,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0118",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20379991,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0119",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20381000,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0120",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20382009,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0121",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20383018,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0122",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20384027,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0123",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20385036,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0124",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20386045,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0125",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20387054,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0126",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20388063,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0127",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20389072,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0128",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20390081,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0129",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20391090,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0130",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20392099,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0131",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20393108,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0132",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20394117,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0133",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20395126,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0134",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20396135,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0135",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20397144,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0136",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20398153,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0137",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20399162,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0138",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20400171,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0139",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20401180,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0140",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20402189,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0141",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20403198,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0142",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20404207,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0143",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20405216,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0144",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20406225,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0145",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20407234,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0146",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20408243,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0147",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20409252,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0148",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20410261,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0149",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20411270,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0150",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20412279,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0151",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20413288,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0152",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20414297,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0153",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20415306,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0154",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20416315,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0155",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20417324,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0156",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20418333,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0157",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20419342,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0158",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20420351,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0159",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20421360,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0160",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20422369,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0161",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20423378,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0162",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20424387,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0163",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20425396,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0164",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20426405,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0165",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20427414,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0166",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20428423,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0167",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20429432,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0168",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20430441,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0169",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20431450,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0170",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20432459,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0171",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20433468,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0172",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20434477,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0173",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20435486,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0174",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20436495,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0175",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20437504,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0176",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20438513,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0177",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20439522,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0178",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20440531,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0179",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20441540,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0180",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20442549,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0181",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20443558,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0182",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20444567,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0183",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20445576,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0184",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20446585,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0185",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20447594,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0186",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20448603,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0187",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20449612,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0188",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20450621,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0189",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20451630,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0190",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20452639,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0191",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20453648,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0192",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20454657,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0193",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20455666,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0194",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20456675,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0195",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20457684,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0196",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20458693,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0197",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20459702,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0198",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20460711,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0199",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20461720,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0200",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20462729,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0201",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20463738,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0202",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20464747,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0203",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20465756,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0204",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20466765,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0205",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20467774,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0206",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20468783,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0207",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20469792,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0208",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20470801,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0209",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20471810,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0210",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20472819,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0211",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20473828,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0212",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20474837,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0213",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20475846,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0214",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20476855,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0215",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20477864,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0216",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20478873,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0217",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20479882,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0218",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20480891,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0219",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20481900,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0220",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20482909,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0221",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20483918,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0222",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20484927,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0223",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20485936,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0224",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20486945,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0225",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20487954,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0226",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20488963,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0227",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20489972,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0228",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20490981,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0229",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20491990,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0230",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20492999,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0231",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20494008,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0232",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20495017,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0233",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20496026,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0234",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20497035,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0235",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20498044,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0236",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20499053,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0237",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20500062,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0238",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20501071,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0239",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20502080,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0240",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20503089,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0241",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20504098,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0242",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20505107,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0243",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20506116,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0244",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20507125,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0245",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20508134,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0246",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20509143,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0247",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20510152,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0248",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20511161,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0249",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20512170,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0250",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20513179,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0251",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20514188,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0252",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20515197,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0253",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20516206,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0254",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20517215,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0255",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20518224,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0256",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20519233,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0257",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20520242,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0258",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20521251,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0259",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20522260,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0260",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20523269,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0261",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20524278,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0262",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20525287,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0263",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20526296,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0264",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20527305,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0265",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20528314,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0266",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20529323,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0267",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20530332,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0268",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20531341,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0269",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20532350,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0270",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20533359,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0271",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20534368,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0272",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20535377,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0273",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20536386,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0274",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20537395,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0275",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20538404,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0276",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20539413,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0277",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20540422,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0278",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20541431,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0279",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20542440,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0280",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20543449,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0281",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20544458,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0282",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20545467,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0283",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20546476,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0284",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20547485,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0285",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20548494,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0286",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20549503,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0287",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20550512,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0288",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20551521,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0289",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20552530,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0290",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20553539,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0291",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20554548,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0292",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20555557,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0293",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20556566,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0294",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20557575,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0295",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20558584,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0296",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20559593,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0297",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20560602,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0298",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20561611,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0299",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20562620,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0300",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20563629,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0301",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20564638,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0302",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20565647,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0303",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20566656,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0304",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20567665,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0305",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20568674,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0306",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20569683,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0307",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20570692,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0308",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20571701,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0309",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20572710,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0310",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20573719,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0311",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20574728,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0312",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20575737,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0313",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20576746,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0314",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20577755,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0315",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20578764,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0316",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20579773,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0317",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20580782,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0318",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20581791,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0319",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20582800,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0320",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20583809,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0321",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20584818,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0322",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20585827,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0323",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20586836,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0324",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20587845,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0325",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20588854,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0326",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20589863,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0327",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20590872,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0328",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20591881,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0329",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20592890,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0330",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20593899,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0331",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20594908,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0332",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20595917,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0333",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20596926,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0334",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20597935,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0335",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20598944,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0336",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20599953,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0337",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20600962,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0338",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20601971,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0339",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20602980,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0340",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20603989,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0341",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20604998,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0342",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20606007,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0343",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20607016,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0344",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20608025,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0345",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20609034,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0346",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20610043,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0347",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20611052,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0348",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20612061,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0349",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20613070,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0350",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20614079,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0351",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20615088,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0352",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20616097,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0353",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20617106,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0354",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20618115,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0355",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20619124,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0356",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20620133,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0357",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20621142,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0358",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20622151,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0359",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20623160,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0360",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20624169,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0361",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20625178,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0362",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20626187,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0363",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20627196,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0364",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20628205,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0365",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20629214,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0366",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20630223,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0367",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20631232,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0368",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20632241,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0369",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20633250,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0370",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20634259,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0371",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20635268,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0372",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20636277,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0373",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20637286,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0374",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20638295,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0375",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20639304,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0376",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20640313,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0377",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20641322,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0378",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20642331,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0379",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20643340,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0380",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20644349,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0381",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20645358,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0382",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20646367,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0383",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20647376,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0384",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20648385,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0385",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20649394,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0386",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20650403,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0387",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20651412,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0388",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20652421,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0389",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20653430,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0390",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20654439,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0391",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20655448,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0392",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20656457,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0393",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20657466,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0394",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20658475,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0395",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20659484,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0396",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20660493,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0397",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20661502,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0398",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20662511,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0399",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20663520,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0400",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20664529,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0401",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20665538,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0402",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20666547,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0403",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20667556,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0404",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20668565,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0405",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20669574,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0406",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20670583,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0407",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20671592,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0408",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20672601,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0409",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20673610,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0410",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20674619,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0411",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20675628,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0412",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20676637,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0413",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20677646,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0414",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20678655,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0415",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20679664,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0416",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20680673,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0417",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20681682,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0418",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20682691,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0419",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20683700,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0420",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20684709,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0421",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20685718,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0422",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20686727,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0423",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20687736,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0424",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20688745,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0425",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20689754,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0426",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20690763,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0427",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20691772,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0428",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20692781,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0429",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20693790,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0430",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20694799,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0431",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20695808,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0432",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20696817,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0433",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20697826,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0434",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20698835,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0435",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20699844,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0436",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20700853,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0437",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20701862,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0438",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20702871,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0439",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20703880,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0440",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20704889,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0441",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20705898,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0442",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20706907,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0443",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20707916,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0444",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20708925,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0445",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20709934,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0446",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20710943,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0447",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20711952,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0448",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20712961,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0449",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20713970,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0450",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20714979,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0451",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20715988,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0452",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20716997,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0453",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20718006,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0454",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20719015,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0455",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20720024,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0456",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20721033,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0457",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20722042,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0458",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20723051,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0459",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20724060,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0460",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20725069,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0461",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20726078,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0462",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20727087,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0463",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20728096,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0464",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20729105,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0465",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20730114,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0466",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20731123,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0467",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20732132,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0468",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20733141,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0469",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20734150,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0470",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20735159,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0471",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20736168,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0472",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20737177,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0473",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20738186,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0474",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20739195,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0475",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20740204,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0476",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20741213,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0477",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20742222,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0478",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20743231,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0479",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20744240,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0480",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20745249,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0481",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20746258,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0482",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20747267,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0483",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20748276,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0484",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20749285,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0485",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20750294,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0486",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20751303,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0487",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20752312,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0488",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20753321,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0489",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20754330,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0490",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20755339,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0491",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20756348,
+      "discount_factor": 0.95
+    },
+    {
+      "id": "micro-0492",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20757357,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0493",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20758366,
+      "discount_factor": 0.99
+    },
+    {
+      "id": "micro-0494",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20759375,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0495",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20760384,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0496",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20761393,
+      "discount_factor": 0.5
+    },
+    {
+      "id": "micro-0497",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20762402,
+      "discount_factor": 0.999
+    },
+    {
+      "id": "micro-0498",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20763411,
+      "discount_factor": 0.8
+    },
+    {
+      "id": "micro-0499",
+      "suite": "micro",
+      "part": "b",
+      "seed": 20764420,
+      "discount_factor": 0.999
+    }
+  ],
+  "scores": [
+    -2.712187146466712,
+    0.18157154689793387,
+    0.44378466888310336,
+    -0.07421248893236139,
+    -0.6806416500610997,
+    0.19495918909708657,
+    -3.64252879188613,
+    -0.13172980707315765,
+    0.18623423258463542,
+    -2.764476012484294,
+    -3.376741532742042,
+    0.20999854246775307,
+    0.15941031558443008,
+    0.17766835530598957,
+    0.3810954421787846,
+    -0.3003527201658199,
+    -2.9109213349624654,
+    -2.842689326523081,
+    -0.18687834234133716,
+    -2.1475286475619964,
+    -3.5014851876162374,
+    -0.7740172092896481,
+    -2.864487529194269,
+    0.18738339742024737,
+    0.19813710530598957,
+    0.1811142985026042,
+    0.06411534823734193,
+    -2.1420066846415873,
+    -1.5453172508561484,
+    -1.0537817936451077,
+    0.44188479518078855,
+    0.19976479212443032,
+    0.20994492610295615,
+    -3.2714472389674527,
+    -0.10524208667778866,
+    0.375315717668923,
+    -1.8948355190156647,
+    -1.4687605176173626,
+    -0.3479578319257602,
+    -0.5482217611354624,
+    0.32089312217080374,
+    -1.5623048882009127,
+    -3.7163919160290875,
+    0.4955145078219698,
+    0.20312044779459634,
+    0.18618836720784504,
+    -0.6497995514893952,
+    -3.3846053383498127,
+    -1.6095211474329947,
+    0.39701813365066085,
+    -3.391920447682883,
+    0.18269499431053796,
+    -3.680577824249612,
+    -2.7401983108138737,
+    -3.148039452288451,
+    -1.684372475033789,
+    -2.2275311251135252,
+    -3.3752343651101113,
+    -3.5927155141130585,
+    0.4165350763877447,
+    -1.479685279442151,
+    0.20497990687688192,
+    0.18997834523518878,
+    0.02181585270985198,
+    0.26953080885769226,
+    -1.2737507530744931,
+    0.31058426057344346,
+    0.1929393768310547,
+    -2.5634187487092235,
+    -1.7503339625050813,
+    -3.549324137633277,
+    -3.1287470740256857,
+    -2.989257224248649,
+    0.005368545754917446,
+    0.39585531238993105,
+    -3.137434995271595,
+    0.20821431477864583,
+    0.19247246305147805,
+    0.15540667215983073,
+    0.15535669962565105,
+    0.15406166712443034,
+    -2.3858318964040834,
+    -2.400682178790846,
+    -2.836485520500064,
+    -1.8421853001565414,
+    -3.467234318594748,
+    -2.6340245957073645,
+    0.08324347365293117,
+    -2.397028324831326,
+    0.3861030152157047,
+    -0.06398987498565469,
+    0.49189548107009423,
+    0.18738006591796874,
+    -1.396949457726704,
+    -2.6312847597950646,
+    0.1962969223414738,
+    -2.164990251472319,
+    -2.0503145516130012,
+    -1.6597760218848692,
+    0.12812458356221515,
+    0.0774882460112215,
+    -3.0409229817972716,
+    -1.0678551031821726,
+    0.48122504414527284,
+    0.18215627291678568,
+    -3.1270065392338355,
+    -0.4507045298554581,
+    -2.963867050162881,
+    -0.5964922623556773,
+    0.19132751464843747,
+    0.005672339564094224,
+    -2.840233260124464,
+    -0.6563456285320662,
+    -0.07997433052659719,
+    -1.9066980571747438,
+    -2.866989849508568,
+    0.12790328860282899,
+    0.20478657563527425,
+    -0.06317163602711674,
+    -3.1128744885008373,
+    -1.2965193866044125,
+    -0.09764541976265806,
+    -3.7657044091367773,
+    -3.346969335740075,
+    0.20988672892252605,
+    0.13153084563205128,
+    0.36993541731409113,
+    0.1331015559083589,
+    0.24289421974251432,
+    -0.07764978609153508,
+    0.18725971539815267,
+    -2.750090195701716,
+    -1.6099961474329947,
+    0.19907521565755207,
+    -2.645607688623492,
+    -3.889589868984082,
+    -0.12942829012145132,
+    -1.7810941701814187,
+    -3.0579151262080244,
+    0.19499729315439862,
+    -3.3202194298256504,
+    -3.83792552053646,
+    -1.248472457559002,
+    -0.9676689964303075,
+    -3.1359806170004787,
+    0.22799966514387812,
+    -2.3064850268555883,
+    0.12022654916380375,
+    -1.5251430446250833,
+    0.2957610274228389,
+    -0.6211016682072747,
+    0.11950354258219402,
+    0.17270666107535362,
+    -1.3741242913512177,
+    -1.0131104766539796,
+    -2.70676611202259,
+    0.12680928548177084,
+    -2.6653931962716597,
+    -2.733699666258824,
+    -1.8546792350981842,
+    -1.9861145180213413,
+    -1.372352535325696,
+    -1.9130957102837247,
+    -2.3444410190473692,
+    0.17244501719872155,
+    0.1775966707865397,
+    -3.056193272844902,
+    -1.8141885964381606,
+    -0.7262187511009991,
+    -0.4504182492288094,
+    0.10747917501784614,
+    0.5053825927384682,
+    -2.963507892047648,
+    -3.7040134573538768,
+    -0.4563079669581862,
+    -3.436186442212198,
+    0.06953325668523218,
+    -0.7154562429146692,
+    0.4870405004585557,
+    -3.048254976986065,
+    -1.262980835415903,
+    -2.545511695175913,
+    -0.5910383965221248,
+    -1.836737043659327,
+    -1.1068334439731946,
+    -2.117070067234856,
+    -3.426229341852429,
+    -2.9011872318900402,
+    -1.2161833249267802,
+    -1.174218766194067,
+    -2.5978322215215157,
+    0.20978657563527423,
+    -2.0980912691757334,
+    -1.1516791568504827,
+    -1.9875371731314893,
+    -1.3110989939159545,
+    -2.9311047512116186,
+    -1.973435718830596,
+    -0.04221100188666615,
+    -2.1290596238365365,
+    -1.508570703782091,
+    -2.759818237586048,
+    0.158384583791097,
+    -0.03488545133909346,
+    -3.5241710460071154,
+    -1.2437274309956814,
+    0.14177083333333332,
+    -2.6247056138374756,
+    0.1624067179361979,
+    0.32220349080847704,
+    -0.4798739274696655,
+    0.1503900146484375,
+    0.2493417781570446,
+    -2.7479762368688214,
+    0.20989172576926649,
+    0.20996585210164387,
+    0.16769500732421874,
+    -3.498045090383014,
+    -0.4558177706666669,
+    0.18269833882649741,
+    0.17454259206851322,
+    -3.8917948780374325,
+    0.2029836059406339,
+    -2.921300369999423,
+    -1.553955322867834,
+    -2.8503460291888096,
+    -2.8702949831660445,
+    -3.2314913289991316,
+    0.4333908113030949,
+    0.5208463572099892,
+    -1.418017417104016,
+    -2.6520576807175344,
+    -2.1637473306465456,
+    0.16762837727864585,
+    -2.4102135809065866,
+    -3.5893474512347896,
+    -3.4252253800868533,
+    0.5165472226023797,
+    -2.456573055644158,
+    0.191139284769694,
+    0.48768799210001124,
+    0.09000957879330405,
+    -1.1918255516592937,
+    -2.4785554203600486,
+    -3.4993982135649246,
+    -2.0823961480570574,
+    0.045682501373999616,
+    -2.738524737755455,
+    -1.6918002941496326,
+    0.16768834431966143,
+    -3.076759293800705,
+    -1.6276044546509663,
+    -0.12363500948436652,
+    0.17998833974202474,
+    0.4917406360258822,
+    -3.23095612295119,
+    -2.2703508514601247,
+    0.10488106900907972,
+    -2.8437542632753985,
+    0.20807772318522133,
+    -0.14489667010632978,
+    -2.380678408914395,
+    -0.2510506150007424,
+    -1.4572286291950627,
+    -1.9794256192194422,
+    -2.397723609057888,
+    0.18811711629231773,
+    0.4560530210866251,
+    -4.197704932703626,
+    -3.0787338606660555,
+    -3.436677842352219,
+    -3.4998312878570097,
+    -3.600826200818331,
+    0.17770167032877604,
+    0.20124075084819107,
+    -2.274515601085769,
+    -3.38395366672446,
+    0.1308563763196737,
+    -0.34211677035657906,
+    0.20998604933420817,
+    0.4389296253554848,
+    -3.167557708117221,
+    -2.1917141116049677,
+    0.32641927164261386,
+    -3.127432774046447,
+    -0.4377434573962109,
+    0.1825750732421875,
+    -0.198626096796821,
+    0.18738839467366533,
+    -2.6319970158021797,
+    0.553620564007761,
+    -2.635576724651726,
+    -3.4052143651101114,
+    -2.083781596620786,
+    -2.5377625603374856,
+    -3.5282703413598306,
+    0.5546741506766307,
+    0.4658479405682534,
+    -2.3350480851938604,
+    -3.5845653280422507,
+    -1.4572286291950627,
+    -1.3069965139431912,
+    -3.6340736806972154,
+    -2.7398452372005084,
+    0.11000324767480714,
+    -0.49753350898876286,
+    -3.2306671131299436,
+    -1.1145031560661158,
+    -0.5493924914987707,
+    0.1931754159554839,
+    0.20998495618502297,
+    -3.1285014127591317,
+    -1.1662842571150975,
+    0.4190592934395634,
+    0.13791625022888185,
+    -0.23717672737415993,
+    -3.1274364560168144,
+    -2.354532295696521,
+    -3.6415417121129443,
+    0.7301145918147952,
+    -2.5632792692515194,
+    -2.9683356981632856,
+    0.1646310190079797,
+    -1.0267375196051334,
+    -0.432221057971745,
+    -2.278565922026434,
+    0.023236669878548572,
+    -3.620237806034495,
+    -3.031074673006071,
+    -3.5306758918812506,
+    -3.3334562893586788,
+    -2.5219374615668584,
+    0.19614053408304852,
+    0.025516454696305774,
+    -3.5909067664992893,
+    -1.5154536506229401,
+    0.04787210929826765,
+    0.10168778831350465,
+    0.16406244794527688,
+    0.16567623744408289,
+    -2.5207289550032868,
+    -1.9093093712290703,
+    -3.715239163098835,
+    0.18815709431966146,
+    -2.269367375300344,
+    -3.3283800198136,
+    0.14040313243865968,
+    -2.8454739214043614,
+    -3.2495085485794726,
+    0.18806880950927732,
+    -3.3124722057097706,
+    -0.5890824177235314,
+    -2.9305908556662525,
+    -3.3107285666238546,
+    0.39661141434623587,
+    0.19122290551662444,
+    -0.9711849069607381,
+    0.18157154689793387,
+    -1.680142728190577,
+    0.4485229060510599,
+    0.17656183759371438,
+    -2.603844411136245,
+    -3.611101501052172,
+    -2.8088911501202065,
+    0.428312649042476,
+    -3.6416226070684345,
+    -3.8971449899802404,
+    -3.939433855997823,
+    -3.5390883985139028,
+    -1.6049888316137304,
+    -3.1800740381651735,
+    -3.3952653700868534,
+    -2.6713843181958055,
+    0.18991671244303385,
+    -3.147033369595039,
+    -3.9513202760450823,
+    -0.258464854796079,
+    -2.7178737132198356,
+    0.050558654196672076,
+    0.1962408955891927,
+    -1.6412949796389746,
+    -0.5269699242666669,
+    -2.259664385300344,
+    -2.602747678099466,
+    -3.9785959616362128,
+    -2.5567102532386112,
+    0.0037294350370489227,
+    -0.9528871163005048,
+    -0.3360208011354624,
+    0.1021780576114215,
+    0.203170419515421,
+    -0.20542432246497286,
+    0.1881104532877604,
+    -2.9336693784437657,
+    -2.553401015165638,
+    -3.130242185760783,
+    -2.433818296936906,
+    0.4993931347774622,
+    -2.4424262882794787,
+    -0.4288709092176997,
+    0.1554033406575521,
+    -3.177786778101062,
+    -3.0672347320802262,
+    -2.249568757253122,
+    -2.522070968183648,
+    -3.0744516397395816,
+    -3.414545378339813,
+    -1.2681940991796232,
+    0.4228671867216299,
+    -2.4082835612221314,
+    -0.07199014844788472,
+    -0.660390733947752,
+    -0.8719531320910532,
+    -1.3927241427688246,
+    -1.7995579661800118,
+    -0.3225478912000002,
+    0.1825750732421875,
+    -1.4263585467225104,
+    0.1503600311279297,
+    0.26438517038413706,
+    -2.214398919891437,
+    -2.433010010591973,
+    0.1913441721598307,
+    0.17450459798177084,
+    -0.6480024433464678,
+    0.18947794596354164,
+    -3.2720429866730676,
+    -0.3381302936859946,
+    0.18884084065755205,
+    0.17520625114440916,
+    -3.82814111940054,
+    -3.0794239880653893,
+    0.14956380208333334,
+    -2.4105573579721575,
+    -2.9460187788988104,
+    0.16950459798177084,
+    -0.06537540705245592,
+    -3.7147862973495216,
+    -1.8305764445046784,
+    -3.105219681396406,
+    -3.829048211310145,
+    0.152600892384847,
+    0.11674259825011903,
+    -2.5226831442144637,
+    0.15821272660828115,
+    -2.286785345414913,
+    -0.07447374938836994,
+    -0.2946228397055117,
+    -2.0958031514463493,
+    -2.2711647198928553,
+    -1.665403381141669,
+    -2.7761523776079415,
+    0.4676219855490848,
+    -0.9845660868677202,
+    -2.7337611395346033,
+    -2.2925884697385523,
+    -2.400433823660606,
+    -2.8098732164282083,
+    0.17133417765299477,
+    -1.7139549184617158,
+    -3.8385848922417636,
+    -3.7875894617266037,
+    -0.026710543851520125,
+    0.20317520936330158,
+    0.4623099257103167,
+    0.17979756673177083,
+    0.17248313426971432,
+    -3.0041303161834585,
+    -2.075339496336461,
+    0.19611429850260417,
+    0.16700459798177084,
+    0.19123423258463537,
+    0.2049864657711987,
+    -3.824888184225418,
+    0.18279856363932293,
+    -2.920993303910974,
+    0.18989333336551983,
+    -2.6185081389181444,
+    0.38489800723667816,
+    -2.3105532759387386,
+    -1.8534757887666788,
+    -1.0422351978502193,
+    -3.005177721805359,
+    -1.7703755645857404,
+    -0.6813445196274257,
+    -2.156727909272073,
+    -1.1804750374358162,
+    -0.7626080996289629,
+    0.002222572014276928,
+    0.4067550531556978,
+    -3.2301327312978714,
+    -1.0680879138455606,
+    0.052723939293915424,
+    -2.124929030676109,
+    0.43250268566665584,
+    0.1913408146301905,
+    0.19630086263020832,
+    -3.3754599404439403,
+    -0.5730383965221247,
+    -2.595062333704378
+  ]
+}
